@@ -10,7 +10,7 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 
 ### Contatos
 * [GIT](https://github.com/gabmota88)
-* [LinkedIn]([https://www.linkedin.com/in/gabriel-mota-4a0816a0/](https://www.linkedin.com/feed/))
+* [LinkedIn](https://www.linkedin.com/in/gabriel-mota-ba01a9204/)
 
 ### Meus Principais Conhecimentos
  Programação em Python:
