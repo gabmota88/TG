@@ -168,6 +168,8 @@ Durante o desenvolvimento, percebi a necessidade de compreender as dificuldades 
 
 ## TG-MANAGER (Cliente Interno )
 Repositório dedicado ao versionamento do projeto de API do segundo semestre de Banco de Dados.
+
+
 [GIT](https://github.com/wizards-of-api/api-2BD)
 
 
