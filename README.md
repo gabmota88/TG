@@ -9,13 +9,14 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 
 
 ### Contatos
-* [GIT](https://github.com/gabmota8)
+* [GIT](https://github.com/gabmota88)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-mota-4a0816a0/)
 
 ### Meus Principais Conhecimentos
  Programação em Python:
-   -Domínio das estruturas básicas e avançadas da linguagem:
+   -Domínio das estruturas básicas da linguagem:
    -Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
+   -Experiencia com Framework Flask:
 
  Programação em Java:
    -Conhecimento dos fundamentos da linguagem e programação orientada a objetos
@@ -32,7 +33,7 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 Banco de dados:
   Conhecimentos em SQL:
    Experiência com bancos de dados relacionais como MySQL e PostgreSQL
-   Integração de bancos de dados com aplicações Java.
+   Integração de bancos de dados com aplicações Java e Python.
 
 
 
@@ -72,23 +73,17 @@ O programa viabiliza a avaliação dos alunos, se baseando na metodologia Avalia
 [GIT](https://github.com/wiz-fatec/avaliacao-360)
 
 # Tecnologias usadas e ferramentas externas
-
-|Tecnologia|Logo|
-| -------- |-------- |
-|**Figma**|[<img  height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/>](https://www.figma.com/)|
-|**Git**|[<img  height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>](https://git-scm.com/)|
-|**Github**|[<img  height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>](https://github.com/)|
-|**Python**|[<img  height="30" width="30" alt="Python-Logo"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org/downloads/)|
-|**Trello**|[<img  height="30" width="30"  alt="trello-logo"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b748e1a9feac220d506734f2a6a69a51/trello.png"/>](https://trello.com)|
-|**Vscode**|[<img  height="30" width="30" alt="Vscode-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>](https://code.visualstudio.com/)|
-
+<!-- Linha com todos os logos fora da tabela --> <div align="center"> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://trello.com"><img height="30" width="30" alt="trello-logo" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b748e1a9feac220d506734f2a6a69a51/trello.png"/></a> <a href="https://code.visualstudio.com/"><img height="30" width="30" alt="Vscode-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/></a> <a href="https://www.pysimplegui.org/en/latest/"><img height="30" width="40" alt="PySimpleGui-logo" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png"/></a> <a href="https://matplotlib.org/"><img width="40" height="30" alt="matplot-lib" src="https://matplotlib.org/_static/logo_dark.svg"/></a> </div>
+<!-- Tabela sem logos na última coluna --> <table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</td> </tr> <tr> <td><a href="https://github.com/">Github</a></td> <td>Plataforma para hospedagem de código-fonte e controle de versão usando Git, facilitando colaboração em projetos.</td> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação popular, versátil, de fácil leitura e com diversas aplicações em scripts, backend, data science e automações.</td> </tr> <tr> <td><a href="https://trello.com">Trello</a></td> <td>Ferramenta de gerenciamento de projetos baseada em quadros, facilitando organização, acompanhamento de etapas e colaboração.</td> </tr> <tr> <td><a href="https://code.visualstudio.com/">Vscode</a></td> <td>Editor de código-fonte desenvolvido pela Microsoft, leve, extensível e muito utilizado para desenvolvimento web e Python.</td> </tr> <tr> <td><a href="https://www.pysimplegui.org/en/latest/">PySimpleGUI</a></td> <td>Biblioteca para criação de interfaces gráficas de forma simples e intuitiva em Python.</td> </tr> <tr> <td><a href="https://matplotlib.org/">Matplotlib</a></td> <td>Biblioteca para criação de gráficos, visualização e exploração de dados em Python.</td> </tr> </table>
 Bibliotecas Python utilizadas:
 
 # Bibliotecas
-|Bibliotecas|Logo|
-| -------- |-------- |
-|**Py simple GUI**|[<img  height="30" width="40" alt="figma-logo" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png"/>](https://www.pysimplegui.org/en/latest/)|
-|**matplotlib**|[<img alt="mat-plot-lib" width="40" height="30" src="https://matplotlib.org/_static/logo_dark.svg">](https://matplotlib.org/)| 
+
+<!-- Linha com logos fora da tabela --> <div align="center"> <a href="https://www.pysimplegui.org/en/latest/"><img height="30" width="40" alt="PySimpleGui-logo" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png"/></a> <a href="https://matplotlib.org/"><img width="40" height="30" alt="matplot-lib" src="https://matplotlib.org/_static/logo_dark.svg"/></a> </div>
+<table> <tr> <th>Biblioteca</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.pysimplegui.org/en/latest/">PySimpleGUI</a></td> <td>Biblioteca para criação de interfaces gráficas de forma simples e intuitiva em Python.</td> </tr> <tr> <td><a href="https://matplotlib.org/">matplotlib</a></td> <td>Biblioteca para criação de gráficos, visualização e exploração de dados em Python.</td> </tr> </table>
+
+
+
 # Contribuições Pessoais  
 
 Atuei nesse projeto como **Product Owner (P.O)**.  
