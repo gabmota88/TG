@@ -210,14 +210,11 @@ Nome|Descrição|
 
 # Contribuições Pessoais
 
-Criei uma classe DatabaseConnection utilizando o padrão Singleton para evitar múltiplas instâncias de conexão.
-Implementei pool de conexões (com HikariCP) para melhor desempenho em requisições simultâneas.
-Adicionei tratamento de exceções personalizadas para falhas de conexão.
-Utilizei JPA/Hibernate para mapeamento objeto-relacional (ORM).
-Defini relacionamentos (@OneToMany, @ManyToOne) entre entidades.
-Implementei validações com Bean Validation (@NotNull, @Size).
-Criei um Enum (TipoTG) para padronizar os valores.
-Adicionei um método estático para conversão de String para Enum (útil em formulários).
+Implementei uma classe para gerenciar a conexão com o banco de dados, garantindo que só uma instância seja criada. Usei um sistema de pool para ajudar no desempenho quando várias conexões são necessárias. Tratei erros de conexão de forma personalizada.
+
+Para facilitar o uso do banco com código Java, utilizei o JPA/Hibernate para transformar registros em objetos. Defini como as tabelas se relacionam usando anotações (@OneToMany, @ManyToOne) e adicionei algumas validações simples, como obrigatoriedade de campos.
+
+Também criei um Enum para padronizar tipos e um método que transforma textos em valores desse Enum, o que ajuda na hora de trabalhar com formulários.
 
 
 
