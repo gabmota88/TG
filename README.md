@@ -535,6 +535,71 @@ Habilidades cruciais para lidar com prazos apertados sem comprometer a qualidade
 
 
 
+### Em 2025-1
+
+Repositório: <a href="https://github.com/QuantumBitBR/API_5SEM">Clique aqui</a>
+
+### Empresa Parceira 🫱🏻‍🫲🏻
+Youtan — Empresa de desenvolvimento de software voltada à criação de soluções tecnológicas para aprimorar a gestão e produtividade de equipes.
+
+### Problema ‼️
+A Youtan enfrenta dificuldades para visualizar e acompanhar indicadores importantes dos projetos no Taiga. 
+A falta de um painel centralizado e de controle de acesso por nível de usuário dificulta a gestão, a análise de desempenho e a tomada de decisões estratégicas.
+
+### Solução Entregue ✅
+Desenvolvemos uma plataforma inteligente integrada ao Taiga, capaz de transformar dados brutos em insights visuais e estratégicos. Com dashboards interativos e acesso personalizado por nível de usuário, cada membro da equipe — do operador ao administrador — pode acompanhar o progresso dos projetos de forma simples, dinâmica e transparente, fortalecendo a tomada de decisões e a eficiência na gestão.
+
+#### Tecnologias Utilizadas
+-<!-- Linha com todos os logos fora da tabela --> <div align="center"> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://www.oracle.com/java/"><img height="30" width="30" alt="Java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> <a href="https://spring.io/projects/spring-boot"><img height="30" width="30" alt="spring-boot-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></a> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://vuejs.org/"><img height="30" width="30" alt="vue-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://www.postman.com/"><img height="30" width="30" alt="postman-logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a> <a href="https://www.postgresql.org/"><img height="30" width="30" alt="postgresql-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a> <a href="https://www.atlassian.com/software/jira"><img height="30" width="30" alt="jira-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></a> <a href="https://discord.com/"><img height="30" width="30" alt="discord-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/></a> </div>
+<table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação de alto nível, simples e poderosa, amplamente usada em automação, ciência de dados, inteligência artificial, desenvolvimento web e análise de dados.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">Java</a></td> <td>Linguagem orientada a objetos e multiplataforma, muito usada em sistemas corporativos, aplicativos Android e soluções de grande escala devido à sua estabilidade e segurança.</td> </tr> <tr> <td><a href="https://spring.io/projects/spring-boot">Spring Boot</a></td> <td>Framework do ecossistema Java que facilita o desenvolvimento de APIs e aplicações web, eliminando configurações complexas e oferecendo recursos prontos como segurança, persistência e testes.</td> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Ferramenta online de design de interface e prototipagem, que permite colaboração em tempo real entre designers e desenvolvedores, facilitando a criação de interfaces modernas.</td> </tr> <tr> <td><a href="https://vuejs.org/">VueJS</a></td> <td>Framework JavaScript progressivo usado para construir interfaces web dinâmicas e reativas, com foco em simplicidade, desempenho e integração fácil com outros projetos.</td> </tr> <tr> <td><a href="https://github.com/">GitHub</a></td> <td>Plataforma baseada em Git que permite armazenar, versionar e colaborar em projetos de software, com controle de versões, issues, pull requests e documentação.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versão distribuído que permite rastrear mudanças no código, trabalhar em equipe e gerenciar diferentes versões de um projeto com segurança.</td> </tr> <tr> <td><a href="https://www.postman.com/">Postman</a></td> <td>Ferramenta usada para criar, testar e documentar APIs de forma simples, permitindo enviar requisições, analisar respostas e automatizar testes de integração.</td> </tr> <tr> <td><a href="https://www.postgresql.org/">PostgreSQL</a></td> <td>Banco de dados relacional open source conhecido por sua robustez, escalabilidade e suporte a recursos avançados como JSON, consultas complexas e transações seguras.</td> </tr> <tr> <td><a href="https://www.atlassian.com/software/jira">Jira</a></td> <td>Plataforma de gestão de projetos e tarefas, amplamente utilizada em equipes ágeis (Scrum e Kanban), para organizar sprints, acompanhar progresso e priorizar demandas.</td> </tr> <tr> <td><a href="https://discord.com/">Discord</a></td> <td>Aplicativo de comunicação por voz, vídeo e texto, muito usado por comunidades e equipes de desenvolvimento para reuniões, suporte e colaboração em tempo real.</td> </tr> </table>
+
+
+#### Contribuições Pessoais
+- Desenvolvimento de requisitos do produto
+  <details>
+    <p>Contribui com a definição dos requisitos funcionais e não funcionais da plataforma, identificando as principais métricas e indicadores necessários para otimizar a gestão de projetos no Taiga. Realizei reuniões com stakeholders e membros da equipe de desenvolvimento para entender as dores operacionais e transformá-las em funcionalidades priorizadas no backlog.</p>
+    <img width="1075" height="799" alt="image" src="https://github.com/user-attachments/assets/e0d83093-3be8-494a-b991-aed5914b2ee3" />
+  </details>
+
+- Priorização do Product Backlog
+  <details>
+      <p>Organizei e priorizei o backlog do produto utilizando critérios de valor de negócio e impacto técnico. Garanti que as entregas de cada sprint estivessem alinhadas aos objetivos estratégicos da Youtan, especialmente no que diz respeito à criação de dashboards interativos e à diferenciação de acesso por perfis de usuário (Operador, Gestor e Admin).</p>
+      <img width="1075" height="805" alt="image" src="https://github.com/user-attachments/assets/8c1767db-dcb6-43b3-8275-3219b4647954" />
+  </details>
+
+- DevOps de Banco de Dados
+  <details>
+      <p>Fui responsável pelo desenvolvimento do processo de DevOps de banco de dados, com foco no versionamento da estrutura utilizando a ferramenta Liquibase. Inicialmente, colaborei com a equipe na criação de um modelo de versionamento manual, o que nos permitiu compreender melhor o fluxo e as necessidades do projeto antes de implementar a ferramenta. Em seguida, configurei o Liquibase para garantir que toda modificação na estrutura do banco de dados gerasse uma versão compatível com a aplicação, permitindo a reversão segura em casos de perda ou necessidade de rollback de versão, mantendo assim a consistência entre aplicação e banco de dados.</p>
+      <img width="1219" height="846" alt="image" src="https://github.com/user-attachments/assets/32bf75e0-6179-4a80-90ab-fa0bb3d9b46e" />
+  </details>
+
+- Protipação das telas
+  <details>
+      <p>Fui responsável por desenvolver os protótipos de interface para a tela de dashboards do sistema, atuando desde a concepção visual até a validação das propostas junto à equipe de desenvolvimento. Apliquei princípios de UX/UI Design, garantindo uma navegação intuitiva, hierarquia visual clara e consistência entre os elementos da interface. Também defini paletas de cores, tipografias e padrões de espaçamento, assegurando boa legibilidade e harmonia visual. Além disso, realizei ajustes com base em feedbacks de usuários e do time técnico, aprimorando a experiência e usabilidade do produto final.</p>
+
+    ![stratify](https://github.com/user-attachments/assets/e5360b82-d955-4dcc-b73f-6c9538a2530e)
+  </details>
+
+#### Hard Skills
+- Liquibase: Implementei o versionamento do banco de dados utilizando o Liquibase, configurando scripts de changelogs para controlar e rastrear alterações estruturais. Assegurei compatibilidade entre versões da aplicação e do banco, facilitando rollback e migrações seguras em ambientes de desenvolvimento e produção.
+- PostgreSQL: Modelei e gerenciei o banco de dados responsável por armazenar métricas e informações do Taiga. Criei e otimizei tabelas, views e consultas SQL para alimentar os dashboards com indicadores de desempenho e distribuição de tarefas.
+- Github: Utilizei o GitHub para versionamento do código e colaboração em equipe, organizando branches, pull requests e revisões de código. Também documentei o projeto e acompanhei o progresso das entregas pelo repositório.
+- Git: Utilizei o Git para versionar o código do projeto, realizando commits, criação de branches e controle de alterações locais. Mantive um histórico organizado e sincronizado com o repositório remoto no GitHub, garantindo segurança e rastreabilidade no desenvolvimento.
+- Jira: Acompanhei o andamento das minhas tarefas e sprints através do Jira, definindo prioridades, prazos e histórias de usuário. Atuei na gestão do backlog e na comunicação entre equipe de devs para garantir o alinhamento do produto.
+- Figma: Desenvolvi os protótipos das telas de dashboards aplicando princípios de UX/UI Design. Defini paletas de cores, tipografia e disposição de elementos para otimizar a experiência do usuário e garantir consistência visual com a identidade da Youtan.
+
+#### Soft Skills
+
+- Comunicação: Mantive uma comunicação clara e constante com a equipe de desenvolvimento e o cliente, garantindo o alinhamento entre os objetivos do projeto e as funcionalidades da plataforma.
+- Trabalho em equipe: Colaborei com os desenvolvedores e designers na criação dos dashboards e definição dos indicadores, buscando sempre integrar design, usabilidade e funcionalidade.
+- Organização e gestão de prioridades: Estruturei e gerenciei o backlog no Jira, priorizando as entregas mais importantes para o negócio e acompanhando o progresso das sprints.
+- Pensamento analítico: Analisei e defini as métricas mais relevantes para a gestão dos projetos, transformando dados do Taiga em informações úteis para tomada de decisão.
+- Adaptabilidade: Implementei o versionamento do banco de dados de forma gradual, iniciando o processo sem ferramentas para compreender o fluxo antes de aplicar o Liquibase.
+- Criatividade: Desenvolvi os protótipos das telas de dashboard no Figma, aplicando princípios de UX/UI Design, explorando cores, hierarquia visual e navegação intuitiva.
+- Responsibilidade e Compromentimento: Cumpri prazos e mantive a qualidade das entregas, assumindo a responsabilidade por etapas críticas como o versionamento do banco e a prototipagem das telas.
+
+
+
 
 
 
