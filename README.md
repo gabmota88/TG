@@ -257,24 +257,24 @@ Permite a customização avançada de componentes visuais.
 
 ---
 	
-### Soft Skills
+#### Soft Skills
 
-#### Trabalho em equipe: 
+###Trabalho em equipe: 
 Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
-#### Versionamento:
+###Versionamento:
 Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
-#### Gestão de Tempo:
+### Gestão de Tempo:
 oncluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
 
-#### Comunicação Assertiva:	
+### Comunicação Assertiva:	
 Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
 
-### Em 2024-1 (Cliente Externo )
+#### Em 2024-1 (Cliente Externo )
 
 ---
 
@@ -315,27 +315,27 @@ Nome|Descrição|
 Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
 
  
-### Hard Skills
+####Hard Skills
 
-#### Figma (Design de Interfaces)
+### Figma (Design de Interfaces)
 Aplicação no Projeto:
 Prototipagem de interfaces para sistemas web e mobile, garantindo usabilidade e experiência intuitiva.
 Design de componentes reutilizáveis para manter consistência visual em todo o sistema.
 Criação de fluxos de navegação para mapear a jornada do usuário nas aplicações.
 
-#### Java 
+### Java 
 Aplicação no Projeto:
 Desenvolvimento do backend com alta performance e segurança.
 Processamento de dados complexos e integração com bancos de dados relacionais.
 
-#### Spring Boot
+### Spring Boot
 Aplicação no Projeto:
 Criação de APIs RESTful para comunicação entre front-end e back-end.
 Injeção de dependências e gestão simplificada de componentes.
 Segurança com Spring Security para autenticação e autorização.
 Integração fácil com bancos de dados (JPA/Hibernate) e serviços externos.
 
-#### Vue.js
+### Vue.js
 Aplicação no Projeto:
 Desenvolvimento de interfaces dinâmicas e reativas para dashboards administrativos.
 Componentização para reutilização de elementos UI.
@@ -343,39 +343,39 @@ Implementação Técnica:
 Uso de Vue 3 Composition API para melhor organização do código.
 Integração com TypeScript para maior segurança de tipos.
 
-#### TypeScript
+### TypeScript
 Aplicação no Projeto:
 Tipagem estática em componentes Vue.js para reduzir erros em runtime.
 Melhor autocompletar e documentação implícita no código.
 
 
-#### HTML & CSS 3
+### HTML & CSS 3
 Aplicação no Projeto:
 Estruturação semântica de páginas com HTML5.
 Estilização responsiva com Flexbox/Grid e media queries.
 Animações e transições para melhor experiência do usuário.
 
-### Soft Skills
+#### Soft Skills
 
-#### Trabalho em equipe:
+### Trabalho em equipe:
 Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
 linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
 
-#### Versionamento: 
+### Versionamento: 
 Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
 
-#### Gestão de Tempo:
+### Gestão de Tempo:
 Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
 
-#### Comunicação Assertiva:	
+### Comunicação Assertiva:	
 Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
 realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
 
 
-### Em 2024-2 (Cliente Externo)
+#### Em 2024-2 (Cliente Externo)
 
 
-### GEO-IOT
+#### GEO-IOT
 Objetivo:
 •
 O projeto tem como objetivo desenvolver uma solução robusta para o armazenamento e consulta de dados de geolocalização em tempo real,
@@ -384,7 +384,7 @@ lidar com grandes volumes de dados, garantindo escalabilidade e alta disponibili
 para o backend, Vue.js para o frontend e comunicação eficiente via APIs RESTful. A segurança dos dados será garantida com criptografia 
 e controle de acesso.
 
-## Objetivo da aplicação
+### Objetivo da aplicação
 
 O GEO-IOT é uma solução tecnológica que coleta, armazena e consulta dados de geolocalização em tempo real, gerados por dispositivos IoT. Ele funciona como um sistema de aprendizagem digital, onde os dados são captados, organizados e analisados para oferecer insights valiosos. Utilizando um banco de dados SQL na ORACLE CLOUD, a plataforma garante escalabilidade e segurança, com criptografia e controle de acesso. A arquitetura é composta por um backend Spring Boot, frontend Vue.js e comunicação via APIs RESTful, permitindo consultas eficientes e confiáveis.
 Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
@@ -392,7 +392,7 @@ Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
 
 [GIT](https://https://github.com/manolito-fatec/geo-iot-2024-1)
 
-### Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 
 <b>Tecnologias Utilizadas no Projeto</b>Add commentMore actions
     <div>
@@ -423,7 +423,7 @@ Nome|Descrição|
 
 No contexto da equipe , atuei como QA (Quality Asssurance)
 
-## Contribuições Pessoais
+### Contribuições Pessoais
 No projeto GEO-IOT, atuei como QA (Quality Assurance), garantindo a qualidade e confiabilidade da aplicação em todas as etapas do desenvolvimento. Minhas responsabilidades englobaram testes em backend e frontend, assegurando que a solução fosse robusta, escalável e segura.
 Atuação no Backend:
 - Definição e execução de testes unitarios  para APIs RESTful.
@@ -437,7 +437,7 @@ Atuação no Frontend:
 - Identificação e correção de bugs relacionados à experiência do usuário.
 Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
 
-### Hard Skills
+#### Hard Skills
 
 
 #### Vue.js
@@ -535,11 +535,11 @@ Habilidades cruciais para lidar com prazos apertados sem comprometer a qualidade
 
 
 
-### Em 2025-1
+#### Em 2025-1
 
 Repositório: <a href="https://github.com/QuantumBitBR/API_5SEM">Clique aqui</a>
 
-### Empresa Parceira 🫱🏻‍🫲🏻
+#### Empresa Parceira 🫱🏻‍🫲🏻
 Youtan — Empresa de desenvolvimento de software voltada à criação de soluções tecnológicas para aprimorar a gestão e produtividade de equipes.
 
 ### Problema ‼️
@@ -556,37 +556,29 @@ Desenvolvemos uma plataforma inteligente integrada ao Taiga, capaz de transforma
 
 #### Contribuições Pessoais
 - Desenvolvimento de requisitos do produto
-  <details>
-    <p>Contribui com a definição dos requisitos funcionais e não funcionais da plataforma, identificando as principais métricas e indicadores necessários para otimizar a gestão de projetos no Taiga. Realizei reuniões com stakeholders e membros da equipe de desenvolvimento para entender as dores operacionais e transformá-las em funcionalidades priorizadas no backlog.</p>
-    <img width="1075" height="799" alt="image" src="https://github.com/user-attachments/assets/e0d83093-3be8-494a-b991-aed5914b2ee3" />
-  </details>
+
+    Contribui com a definição dos requisitos funcionais e não funcionais da plataforma, identificando algumas  métricas e indicadores necessários para  a gestão de projetos no Taiga. Participei de  reuniões junto com  stakeholders e outros membros da equipe de desenvolvimento para compreendermos as dores operacionais e transformá-las em funcionalidades priorizadas.
+
 
 - Priorização do Product Backlog
-  <details>
-      <p>Organizei e priorizei o backlog do produto utilizando critérios de valor de negócio e impacto técnico. Garanti que as entregas de cada sprint estivessem alinhadas aos objetivos estratégicos da Youtan, especialmente no que diz respeito à criação de dashboards interativos e à diferenciação de acesso por perfis de usuário (Operador, Gestor e Admin).</p>
-      <img width="1075" height="805" alt="image" src="https://github.com/user-attachments/assets/8c1767db-dcb6-43b3-8275-3219b4647954" />
-  </details>
+  
+      Organizei e priorizei o backlog do produto utilizando critérios de valor de negócio e impacto técnico. Garanti que as entregas de cada sprint estivessem alinhadas aos objetivos estratégicos da Youtan, especialmente no que diz respeito à criação de dashboards interativos e à diferenciação de acesso por perfis de usuário (Operador, Gestor e Admin).
 
-- DevOps de Banco de Dados
-  <details>
-      <p>Fui responsável pelo desenvolvimento do processo de DevOps de banco de dados, com foco no versionamento da estrutura utilizando a ferramenta Liquibase. Inicialmente, colaborei com a equipe na criação de um modelo de versionamento manual, o que nos permitiu compreender melhor o fluxo e as necessidades do projeto antes de implementar a ferramenta. Em seguida, configurei o Liquibase para garantir que toda modificação na estrutura do banco de dados gerasse uma versão compatível com a aplicação, permitindo a reversão segura em casos de perda ou necessidade de rollback de versão, mantendo assim a consistência entre aplicação e banco de dados.</p>
-      <img width="1219" height="846" alt="image" src="https://github.com/user-attachments/assets/32bf75e0-6179-4a80-90ab-fa0bb3d9b46e" />
-  </details>
+- DevOps de Testes de Integração
+  
+      Fui responsável pelo desenvolvimento do processo de DevOps de testes de integração, com foco em desenvolver testes de integração que garantiram que os, modulos funcionem de maneira correta. para aplicações no backend, utilizei como base JUNit, Spring Boost Test, Testcontainers(PostgreSQL real), WebTestClient,AssertJ e Scripts SQL. no frontend, utilizamos Vitest com mocks para testar integraçãode serviços e chamadas de backend. toda essa estrutura gerou como benecifios uma boa detecção de erros, redução de falhas em produção, aumentando a confiança nas entregas.
+      
 
 - Protipação das telas
-  <details>
-      <p>Fui responsável por desenvolver os protótipos de interface para a tela de dashboards do sistema, atuando desde a concepção visual até a validação das propostas junto à equipe de desenvolvimento. Apliquei princípios de UX/UI Design, garantindo uma navegação intuitiva, hierarquia visual clara e consistência entre os elementos da interface. Também defini paletas de cores, tipografias e padrões de espaçamento, assegurando boa legibilidade e harmonia visual. Além disso, realizei ajustes com base em feedbacks de usuários e do time técnico, aprimorando a experiência e usabilidade do produto final.</p>
-
-    ![stratify](https://github.com/user-attachments/assets/e5360b82-d955-4dcc-b73f-6c9538a2530e)
-  </details>
+  Fui responsável por desenvolver os protótipos de interface para a tela de dashboards do sistema, atuando desde a concepção visual até a validação das propostas junto à equipe de desenvolvimento. Apliquei princípios de UX/UI Design, garantindo uma navegação intuitiva, hierarquia visual clara e consistência entre os elementos da interface. Também defini paletas de cores, tipografias e padrões de espaçamento, assegurando boa legibilidade e harmonia visual. Além disso, realizei ajustes com base em feedbacks de usuários e do time técnico, aprimorando a experiência e usabilidade do produto final.
 
 #### Hard Skills
 - Liquibase: Implementei o versionamento do banco de dados utilizando o Liquibase, configurando scripts de changelogs para controlar e rastrear alterações estruturais. Assegurei compatibilidade entre versões da aplicação e do banco, facilitando rollback e migrações seguras em ambientes de desenvolvimento e produção.
-- PostgreSQL: Modelei e gerenciei o banco de dados responsável por armazenar métricas e informações do Taiga. Criei e otimizei tabelas, views e consultas SQL para alimentar os dashboards com indicadores de desempenho e distribuição de tarefas.
+- PostgreSQL: Utilizei e pesquisei  o banco de dados responsável por armazenar métricas e informações do Taiga. Utilizei e otimizei tabelas, views e consultas SQL para alimentar os dashboards com indicadores de desempenho e distribuição de tarefas.
 - Github: Utilizei o GitHub para versionamento do código e colaboração em equipe, organizando branches, pull requests e revisões de código. Também documentei o projeto e acompanhei o progresso das entregas pelo repositório.
 - Git: Utilizei o Git para versionar o código do projeto, realizando commits, criação de branches e controle de alterações locais. Mantive um histórico organizado e sincronizado com o repositório remoto no GitHub, garantindo segurança e rastreabilidade no desenvolvimento.
 - Jira: Acompanhei o andamento das minhas tarefas e sprints através do Jira, definindo prioridades, prazos e histórias de usuário. Atuei na gestão do backlog e na comunicação entre equipe de devs para garantir o alinhamento do produto.
-- Figma: Desenvolvi os protótipos das telas de dashboards aplicando princípios de UX/UI Design. Defini paletas de cores, tipografia e disposição de elementos para otimizar a experiência do usuário e garantir consistência visual com a identidade da Youtan.
+
 
 #### Soft Skills
 
