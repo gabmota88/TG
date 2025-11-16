@@ -612,6 +612,24 @@ Contribui na analise de definição das métricas mais relevantes para a gestão
 #### Responsabilidade e Compromentimento: 
 Cumpri prazos e mantive a qualidade das entregas, assumindo a responsabilidade de todas as tarefas aos quais me habilitei para desenvolver.
 
+## Em 2025-2 
+
+
+
+## Problema:
+<p>Atualmente, os usuários dependem de um sistema de tickets para receber suporte e resolver problemas recorrentes. No entanto, esse modelo apresenta desafios importantes. Um número considerável de tickets é repetitivo, referindo-se a problemas que já foram identificados e solucionados, o que gera retrabalho desnecessário para a equipe de suporte. Consequentemente, os esforços da equipe são frequentemente consumidos por solicitações de baixa complexidade, reduzindo sua capacidade de focar em incidentes críticos e novas demandas. Além disso, as informações relacionadas a problemas recorrentes estão fragmentadas, limitando a geração de insights gerenciais e dificultando a análise de tendências, identificação de gargalos e exploração de oportunidades de melhoria. </p>
+## Solução:
+<p> A solução é uma plataforma inteligente de gestão de suporte projetada para otimizar as operações de atendimento ao cliente. Ela combina busca avançada de tickets, insights estratégicos automatizados, análise de tendências orientada por IA e anonimização robusta de dados para garantir conformidade total com a LGPD. Ao gerar relatórios insights automaticamente, a plataforma não apenas reduz o trabalho repetitivo, mas também capacita as organizações com dados acionáveis para orientar a tomada de decisão estratégica. Ao longo do tempo, o histórico de serviços é transformado em uma fonte valiosa de inteligência corporativa, permitindo melhoria contínua, maior eficiência e resultados empresariais mais inteligentes. </p>
+
+	## Used Technologies
+
+![WhatsApp Image 2025-10-26 at 19 11 18](https://github.com/user-attachments/assets/3d327c62-65dc-4822-ad10-b8db9fe3a088)
+
+Diretório de Documentação
+<a href="https://github.com/QuantumBitBR/API_6SEM"a>
+
+
+
 
 
 
