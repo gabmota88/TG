@@ -13,22 +13,24 @@ na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 
 [Email](mailto:gabmota8@hotmail.com)
 
-## Meus Principais Conhecimentos
-### Java - Desenvolvimento back-end com Spring Boot (Uso com autonomia)
+#### Meus Principais Conhecimentos
+ **Java**            -Desenvolvimento back-end com Spring Boot (Uso com autonomia)
 
-### Python - Análise de dados com Pandas/NumPy (Uso com autonomia)
+ **Python**          -Análise de dados com Pandas/NumPy (Uso com autonomia)
 
-### Vue.js - Desenvolvimento front-end (Uso com ajuda)
+ **Vue.js**          -Desenvolvimento front-end (Uso com ajuda)
 
-### Javascript - Desenvolvimento front-end (Uso com ajuda)
+ **Javascript**      -Desenvolvimento front-end (Uso com ajuda)
 
-### Banco de Dados - MySQL e PostgreSQL (Uso com autonomia)
+ **Banco de Dados**  -MySQL e PostgreSQL (Uso com autonomia)
 
-### Spring Boot - APIs RESTful (Uso com autonomia)
+ **Spring Boot**     -APIs RESTful (Uso com autonomia)
+
+ **Flask**           -APIs RESTful (Uso com autonomia)
 
 # Meus Projetos
 ## Em 2023-1 (Cliente Interno)
-### Empresa Parceira
+## Empresa Parceira
 ### Fatec (Lucas Gonçalves Nadalete)
 
 #### Problema
