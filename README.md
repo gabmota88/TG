@@ -1,8 +1,10 @@
-
- <img width="1881" height="1080" alt="foto gabriel portfolio" src="https://github.com/user-attachments/assets/0ddd311f-e8b6-4f18-9c90-5f81df969dac" />
-
-
 # Gabriel de Souza Mota
+<img src="https://github.com/user-attachments/assets/0ddd311f-e8b6-4f18-9c90-5f81df969dac" 
+     alt="foto gabriel portfolio" 
+     width="1881" 
+     height="1080" 
+     align="right"
+     style="float: right; margin-left: 20px;" />
 ## Introdução
 
 Com uma sólida trajetória de 21 anos na área de Manutenção Industrial, dos quais 20 atuando como Eletricista especializado, decidi encarar um novo e ambicioso desafio: uma transição de carreira para a área de Tecnologia, com foco em Dados.
