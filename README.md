@@ -42,7 +42,7 @@ Sistema de avaliação 360º com dois níveis de acesso: Aluno (autoavaliação 
 [GIT](https://github.com/wiz-fatec/avaliacao-360)
 
 ## Tecnologias Utilizadas
-https://camo.githubusercontent.com/dffeaa86f0e632f376b3636541f5341d0e79fec234b46fca99ec3db9c8866964/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c6769742c707974686f6e2c7673636f6465
+(https://camo.githubusercontent.com/dffeaa86f0e632f376b3636541f5341d0e79fec234b46fca99ec3db9c8866964/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c6769742c707974686f6e2c7673636f6465)
 ## Contribuições Pessoais
 Atuei nesse projeto como Product Owner (P.O).
 Realizei, junto ao cliente, a definição dos requisitos funcionais e não funcionais dessa aplicação, garantindo o alinhamento das entregas em cada uma das 4 sprints. Além disso, contribuí diretamente com implementações junto à equipe e organizei o backlog para que os membros tivessem um guia claro de como estruturar as tarefas dentro de cada sprint.
