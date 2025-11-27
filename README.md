@@ -8,27 +8,17 @@
 ## Introdução
 
 Com uma sólida trajetória de 21 anos na área de Manutenção Industrial, dos quais 20 atuando como Eletricista especializado, decidi encarar um novo e ambicioso desafio: uma transição de carreira para a área de Tecnologia, com foco em Dados.
-
 Minha experiência anterior foi fundamental na construção de uma mentalidade analítica e resolutiva. Durante duas décadas, fui responsável por:
-
 Desenvolvimento e execução de projetos elétricos.
-
 Manutenção corretiva e preventiva de diversos equipamentos industriais.
-
 Implementação de melhorias e otimizações em sistemas existentes, sempre visando ganhos de eficiência, segurança e confiabilidade.
-
 Foi nesta vivência prática que percebi o poder dos dados para a tomada de decisão. A necessidade de diagnosticar falhas complexas, analisar tendências de quebra e planejar intervenções me mostrou a importância de ter informações precisas e acionáveis. Foi essa percepção que despertou meu desejo de me desafiar intelectualmente e migrar para uma carreira onde pudesse não apenas operar máquinas, mas, principalmente, extrair inteligência delas.
-
 Para embasar essa transição de forma sólida, ingressei em 2023 em um curso superior de Tecnologia na FATEC, direcionando meus estudos especificamente para Análise e Ciência de Dados. Estou adquirindo conhecimentos robustos em:
 
 Linguagens de Programação: Python, R e SQL.
-
 Visualização de Dados: Power BI e Tableau.
-
 Estatística e Modelagem Preditiva.
-
 Banco de Dados e ETL (Extract, Transform, Load).
-
 Minha Visão e Objetivo de Carreira:
 
 Ao me formar, meu objetivo é atuar como Analista de Dados, com um foco estratégico em aquisição e integração de dados em ambientes industriais. Acredito que minha bagagem única é um diferencial competitivo: compreendo profundamente os processos fabris, a linguagem das máquinas e os pontos onde os dados são gerados. Posso, portanto, atuar como uma ponte eficiente entre o chão de fábrica e a sala de estratégia, garantindo que os dados coletados sejam robustos, confiáveis e verdadeiramente úteis para impulsionar a Indústria 4.0.
