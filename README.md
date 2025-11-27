@@ -1,3 +1,7 @@
+
+ <img width="1881" height="1080" alt="foto gabriel portfolio" src="https://github.com/user-attachments/assets/0ddd311f-e8b6-4f18-9c90-5f81df969dac" />
+
+
 # Gabriel de Souza Mota
 ## Introdução
 
