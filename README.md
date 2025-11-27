@@ -42,7 +42,25 @@ Sistema de avaliação 360º com dois níveis de acesso: Aluno (autoavaliação 
 [GIT](https://github.com/wiz-fatec/avaliacao-360)
 
 ## Tecnologias Utilizadas
-(https://camo.githubusercontent.com/dffeaa86f0e632f376b3636541f5341d0e79fec234b46fca99ec3db9c8866964/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c6769742c707974686f6e2c7673636f6465)
+<div style="text-align: center;">
+    <b>Tecnologias Utilizadas no Projeto</b>
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,git,python,vscode"/><br>
+    </div>
+</div>
+<br>
+
+|Nome|Descrição|
+ :--------: | :-------- |
+|[FIGMA](https://www.figma.com/pt-br/)|Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
+|[GIT](https://git-scm.com/)|é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software|
+|[PYTHON](https://docs.python.org/pt-br/dev/faq/general.html)|Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos. É uma das linguagens de programação mais populares e usadas em diversos campos, como desenvolvimento web, ciência de dados, automação e machine learning. No projeto, utilizamos o PySimpleGUI, uma biblioteca Python que simplifica a criação de interfaces gráficas para aplicativos, tornando o desenvolvimento mais rápido e prático.|
+|[VSCODE](https://code.visualstudio.com/)|O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft|
+
+
+<br>
+
+
 ## Contribuições Pessoais
 Atuei nesse projeto como Product Owner (P.O).
 Realizei, junto ao cliente, a definição dos requisitos funcionais e não funcionais dessa aplicação, garantindo o alinhamento das entregas em cada uma das 4 sprints. Além disso, contribuí diretamente com implementações junto à equipe e organizei o backlog para que os membros tivessem um guia claro de como estruturar as tarefas dentro de cada sprint.
@@ -79,7 +97,12 @@ Sistema desktop em Java para gestão de TGs com importação de CSV, controle de
 [GIT](https://github.com/wiz-fatec/api-2BD)
 
 ## Tecnologias Utilizadas
-https://camo.githubusercontent.com/5334dbf8fe1375446649a25f6fa5940efb9495877c0093c450926b3f97c8b58f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c6769742c6a6176612c6d6176656e2c706f737467726573716c2c7673636f64652c69646561
+<div style="text-align: center;">
+    <b>Tecnologias Utilizadas no Projeto</b>
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,git,java,maven,postgresql,vscode,idea"/><br>
+    </div>
+</div>
 
 <div align="center"> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://www.oracle.com/java/"><img height="30" width="30" alt="Java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> <a href="https://maven.apache.org/"><img height="30" width="30" alt="maven-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/></a> <a href="https://www.postgresql.org/"><img height="30" width="30" alt="postgresql-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a> <a href="https://code.visualstudio.com/"><img height="30" width="30" alt="vscode-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a> <a href="https://www.jetbrains.com/idea/"><img height="30" width="30" alt="intellij-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></a> </div><table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.figma.com/">FIGMA</a></td> <td>Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.</td> </tr> <tr> <td><a href="https://git-scm.com/">GIT</a></td> <td>É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">JAVA</a></td> <td>Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.</td> </tr> <tr> <td><a href="https://maven.apache.org/">MAVEN</a></td> <td>O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.</td> </tr> <tr> <td><a href="https://www.postgresql.org/">POSTGRESQL</a></td> <td>PostgreSQL é uma solução de banco de dados crucial que ajuda os desenvolvedores a manter a integridade de seus dados, gerenciar com mais facilidade cargas de trabalho de todos os tamanhos e dimensionar conforme necessário.</td> </tr> <tr> <td><a href="https://code.visualstudio.com/">VSCODE</a></td> <td>O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft.</td> </tr> <tr> <td><a href="https://www.jetbrains.com/idea/">INTELLIJ</a></td> <td>IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.</td> </tr> </table>
 
@@ -120,8 +143,14 @@ Plataforma web intuitiva para configuração visual de pipelines de dados, permi
 [GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
 
 ## Tecnologias Utilizadas
+<div style="text-align: center;">
+    <b>Tecnologias Utilizadas no Projeto</b>
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,mysql,vscode,idea"/><br>
+    </div>
+</div>
 
-https://camo.githubusercontent.com/0d8c1bcc17311c7380aa9c4188834bac04a7d6656da5f07b1ed775a9953b9617/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c68746d6c2c6373732c7675656a732c747970657363726970742c6769742c737072696e672c6a6176612c6d6176656e2c6d7973716c2c7673636f64652c69646561
+
 <table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.figma.com/">FIGMA</a></td> <td>Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.</td> </tr> <tr> <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></td> <td>HTML (HyperText Markup Language) é a linguagem de marcação de hipertexto que é a base da web. É utilizada para criar a estrutura e o conteúdo de páginas web, definindo como o navegador deve interpretar e exibir informações como texto, imagens, links e outros elementos.</td> </tr> <tr> <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></td> <td>CSS (Cascading Style Sheets) é a linguagem usada para estilizar elementos HTML e controlar como eles são exibidos no navegador. Ele permite definir cores, fontes, espaçamentos, layouts e outros aspectos da apresentação visual de uma página web. Em resumo, o CSS é responsável por tornar a página web visualmente atraente e organizada.</td> </tr> <tr> <td><a href="https://vuejs.org/">VUE</a></td> <td>Vue.js é um framework JavaScript de código aberto e progressivo usado para construir interfaces de usuário e aplicações web. Ele é conhecido por ser fácil de aprender e integrar em projetos existentes.</td> </tr> <tr> <td><a href="https://www.typescriptlang.org/">TYPESCRIPT</a></td> <td>TypeScript é uma linguagem de programação de código aberto, que é um superconjunto sintático do JavaScript, desenvolvido pela Microsoft. Ele adiciona recursos de tipagem estática ao JavaScript, facilitando a identificação de erros e tornando o desenvolvimento de aplicações mais seguras e complexas.</td> </tr> <tr> <td><a href="https://git-scm.com/">GIT</a></td> <td>É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software</td> </tr> <tr> <td><a href="https://spring.io/projects/spring-boot">SPRING-BOOT</a></td> <td>Spring Boot é um framework Java de código aberto que visa facilitar o desenvolvimento de aplicações Spring. Simplifica a configuração e a execução de aplicações, tornando o processo mais rápido e fácil. É utilizado para criar aplicações web, microsserviços, APIs REST e outros tipos de aplicações.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">JAVA</a></td> <td>Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.</td> </tr> <tr> <td><a href="https://maven.apache.org/">MAVEN</a></td> <td>O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.</td> </tr> <tr> <td><a href="https://www.mysql.com/">MySQL</a></td> <td>MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto, ou seja, um software que permite armazenar e organizar dados em tabelas, com relacionamentos entre elas. Ele é amplamente utilizado em aplicações web e em diversos outros contextos, como em sites de comércio eletrônico, redes sociais e aplicativos.</td> </tr> <tr> <td><a href="https://code.visualstudio.com/">VSCODE</a></td> <td>O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft</td> </tr> <tr> <td><a href="https://www.jetbrains.com/idea/">INTELLIJ</a></td> <td>IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.</td> </tr> </table>
 
                                                                                                                                                                                                             
@@ -158,9 +187,13 @@ Plataforma GEO-IOT para coleta, armazenamento e consulta de dados de geolocaliza
 [GIT](https://github.com/manolito-fatec/geo-iot-2024-1)
 
 **Tecnologias Utilizadas**
+<div style="text-align: center;">
+    <b>Tecnologias Utilizadas no Projeto</b>
+    <div>
+        <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,docker,redis,vscode,idea"/><br>
+    </div>
+</div>
 
-
-(https://camo.githubusercontent.com/0d8c1bcc17311c7380aa9c4188834bac04a7d6656da5f07b1ed775a9953b9617/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c68746d6c2c6373732c7675656a732c747970657363726970742c6769742c737072696e672c6a6176612c6d6176656e2c6d7973716c2c7673636f64652c69646561)
  <table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.figma.com/">FIGMA</a></td> <td>Editor gráfico de vetor e prototipagem baseado em navegador para projetos de design</td> </tr> <tr> <td><a href="https://git-scm.com/">GIT</a></td> <td>Sistema de controle de versões distribuído para desenvolvimento de software</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">JAVA</a></td> <td>Linguagem de programação multiplataforma orientada a objetos para aplicações web e empresariais</td> </tr> <tr> <td><a href="https://maven.apache.org/">MAVEN</a></td> <td>Ferramenta de gerenciamento e construção de projetos Java com gestão de dependências</td> </tr> <tr> <td><a href="https://www.postgresql.org/">POSTGRESQL</a></td> <td>Sistema de banco de dados relacional open-source robusto e escalável</td> </tr> <tr> <td><a href="https://code.visualstudio.com/">VSCODE</a></td> <td>Editor de código-fonte leve e poderoso da Microsoft com extensões</td> </tr> <tr> <td><a href="https://www.jetbrains.com/idea/">INTELLIJ</a></td> <td>IDE avançado para desenvolvimento em Java e outras linguagens JVM</td> </tr> <tr> <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></td> <td>Linguagem de marcação padrão para criação de páginas web</td> </tr> <tr> <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></td> <td>Linguagem de estilização para design e layout de páginas web</td> </tr> <tr> <td><a href="https://vuejs.org/">VUE.JS</a></td> <td>Framework JavaScript progressivo para construção de interfaces de usuário</td> </tr> <tr> <td><a href="https://www.typescriptlang.org/">TYPESCRIPT</a></td> <td>Superset tipado de JavaScript que compila para JS puro</td> </tr> <tr> <td><a href="https://spring.io/">SPRING</a></td> <td>Framework Java para construção de aplicações empresariais</td> </tr> <tr> <td><a href="https://www.docker.com/">DOCKER</a></td> <td>Plataforma para desenvolvimento, envio e execução de aplicações em containers</td> </tr> <tr> <td><a href="https://redis.io/">REDIS</a></td> <td>Banco de dados em memória usado como cache, broker de mensagens e armazenamento chave-valor</td> </tr> </table>    
 No projeto GEO-IOT, atuei como QA (Quality Assurance), garantindo a qualidade e confiabilidade da aplicação em todas as etapas do desenvolvimento. Minhas responsabilidades englobaram testes em backend e frontend, assegurando que a solução fosse robusta, escalável e segura.
 
