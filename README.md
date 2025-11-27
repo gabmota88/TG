@@ -1,644 +1,379 @@
-## Gabriel de Souza Mota
-### Introdução
+# Gabriel de Souza Mota
+## Introdução
 
-Tenho 43 anos, casado, com 1 filho, tenho 21 anos de experiencia na area de Manutenção. 
-Decidi em 2022 mudar de carreira e decidi fazer uma transição para a area de tecnologia. Ingressei 
+
+Tenho 44 anos, casado, com 1 filho, tenho 21 anos de experiencia na area de Manutenção.
+Decidi em 2022 mudar de carreira e decidi fazer uma transição para a area de tecnologia. Ingressei
 na fatec em 2023, A fim de iniciar meus estudos na area de dados .
 
+### Contatos
+[GIT](https://github.com/gabmota88)
 
+[LinkedIn](https://www.linkedin.com/in/gabriel-mota-ba01a9204/)
 
-
-#### Contatos
-* [GIT](https://github.com/gabmota88)
-* [LinkedIn](https://www.linkedin.com/in/gabriel-mota-ba01a9204/)
+[Email](mailto:gabmota8@hotmail.com)
 
 ## Meus Principais Conhecimentos
- ### Programação em Python:
-   -Domínio das estruturas básicas da linguagem:
-   -Experiência com bibliotecas como Pandas, NumPy e Matplotlib:
-   -Experiencia com Framework Flask:
+### Java - Desenvolvimento back-end com Spring Boot (Uso com autonomia)
 
- ### Programação em Java:
-   -Conhecimento dos fundamentos da linguagem e programação orientada a objetos
-   -Experiência com desenvolvimento de aplicações desktop e web usando Java
-   -Familiaridade com frameworks como Spring e Hibernate.
+### Python - Análise de dados com Pandas/NumPy (Uso com autonomia)
 
+### Vue.js - Desenvolvimento front-end (Uso com ajuda)
 
- ### Programação em JavaScript:
-- Domínio dos conceitos essenciais da linguagem
-- Experiência com desenvolvimento frontend utilizando Vue.js 3
-- Conhecimento sobre composição de componentes, Vue Router e Vuex/Pinia para gerenciamento de estado
-- Integração eficiente de APIs RESTful para consumo de dados dinâmicos.
+### Javascript - Desenvolvimento front-end (Uso com ajuda)
 
-### Banco de dados:
-  Conhecimentos em SQL:
-   Experiência com bancos de dados relacionais como MySQL e PostgreSQL
-   Integração de bancos de dados com aplicações Java e Python.
+### Banco de Dados - MySQL e PostgreSQL (Uso com autonomia)
 
+### Spring Boot - APIs RESTful (Uso com autonomia)
 
+# Meus Projetos
+## Em 2023-1 (Cliente Interno)
+### Empresa Parceira
+### Fatec (Lucas Gonçalves Nadalete)
 
-## Meus Projetos
-  
-### Em 2023-1  (Cliente Interno )
+#### Problema
+Dificuldade na aplicação prática da metodologia de Avaliação 360º de forma manual, com controle ineficiente de turmas, grupos e análise de resultados, gerando retrabalho e impossibilitando uma visão consolidada do desempenho dos alunos.
 
-###  Avaliação 360º
-
-A PBLTeX, especializada em cursos práticos de ensino aplicando PBL (Problem Based Learning) desenvolveu uma dinâmica de **Avaliação Democratizada** baseada na Avaliação 360º. O desafio será de apoiar a instituição a levantar, especificar e desenvolver uma solução computacional que viabilize a aplicação da Avaliação. 
-
-#### Objetivo da solução 
-
-O programa viabiliza a avaliação dos alunos, se baseando na metodologia Avaliação 360º. Para liberar o acesso ao programa, teremos 2 niveis de acesso: Administrador e Aluno. Dependendo do tipo de acesso, havera opções de tela diferentes. A tela "aluno" possibilitará ao usuário ver a turma e o grupo ao qual está inserido, avaliar os membros do seu grupo e se  auto-avaliar, podendo ver os resultados das avaliações realizadas por ele. O "Administrador" terá atribuições de criar as turmas, grupos e o registro dos alunos, requisitar a avaliação e observar os resultados da mesma, atraves de dashboards operacionais e gerenciais .
-
-## Funcionalidades
-
-### Aluno
-
-- Realizar login com usuário e senha
-- Acessar a Interface de Aluno
-- Avaliar a si mesmo e aos seus colegas
-- Visualizar gráficos de desempenho gerados pela sua avaliação
-
-### Administrador
-
-- Realizar o login com usuário e senha
-- Acessar a Interface de administrador
-- Realizar o cadastro de alunos, grupos e turmas
-- Configurar sprint das turmas
-- Visualizar lista de turmas e grupos
-- Visualizar gráficos de desempenho gerados pelas avaliações dos grupos, das turmas.
-
-
-
+#### Solução
+Sistema de avaliação 360º com dois níveis de acesso: Aluno (autoavaliação e avaliação de colegas) e Administrador (gerenciar turmas/grupos e visualizar resultados). Desenvolvido em Python puro com PySimpleGUI para interface gráfica e Matplotlib para geração de dashboards e gráficos de desempenho.
 
 [GIT](https://github.com/wiz-fatec/avaliacao-360)
 
-## Tecnologias usadas e ferramentas externas
+## Tecnologias Utilizadas
+<div align="center"> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://trello.com"><img height="30" width="30" alt="trello-logo" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b748e1a9feac220d506734f2a6a69a51/trello.png"/></a> <a href="https://code.visualstudio.com/"><img height="30" width="30" alt="Vscode-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/></a> </div><table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</td> </tr> <tr> <td><a href="https://github.com/">Github</a></td> <td>Plataforma para hospedagem de código-fonte e controle de versão usando Git, facilitando colaboração em projetos.</td> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação popular, versátil, de fácil leitura e com diversas aplicações em scripts, backend, data science e automações.Utilizado varias bibliotecas para visualização.</td> </tr> <tr> <td><a href="https://trello.com">Trello</a></td> <td>Ferramenta de gerenciamento de projetos baseada em quadros, facilitando organização, acompanhamento de etapas e colaboração.</td> </tr> <tr> <td><a href="https://code.visualstudio.com/">Vscode</a></td> <td>Editor de código-fonte desenvolvido pela Microsoft, leve, extensível e muito utilizado para desenvolvimento web e Python.</td> </tr> </table>
 
-<!-- Linha com todos os logos fora da tabela (sem PySimpleGUI e Matplotlib) --> <div align="center"> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://trello.com"><img height="30" width="30" alt="trello-logo" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b748e1a9feac220d506734f2a6a69a51/trello.png"/></a> <a href="https://code.visualstudio.com/"><img height="30" width="30" alt="Vscode-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/></a> </div>
-<!-- Tabela sem logos na última coluna e sem bibliotecas Python --> <table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</td> </tr> <tr> <td><a href="https://github.com/">Github</a></td> <td>Plataforma para hospedagem de código-fonte e controle de versão usando Git, facilitando colaboração em projetos.</td> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação popular, versátil, de fácil leitura e com diversas aplicações em scripts, backend, data science e automações.Utilizado varias bibliotecas para visualização.</td> </tr> <tr> <td><a href="https://trello.com">Trello</a></td> <td>Ferramenta de gerenciamento de projetos baseada em quadros, facilitando organização, acompanhamento de etapas e colaboração.</td> </tr> <tr> <td><a href="https://code.visualstudio.com/">Vscode</a></td> <td>Editor de código-fonte desenvolvido pela Microsoft, leve, extensível e muito utilizado para desenvolvimento web e Python.</td> </tr> </table>
+## Contribuições Pessoais
+Atuei nesse projeto como Product Owner (P.O).
+Realizei, junto ao cliente, a definição dos requisitos funcionais e não funcionais dessa aplicação, garantindo o alinhamento das entregas em cada uma das 4 sprints. Além disso, contribuí diretamente com implementações junto à equipe e organizei o backlog para que os membros tivessem um guia claro de como estruturar as tarefas dentro de cada sprint.
 
+Também validei com o cliente cada um dos requisitos, garantindo que a equipe estivesse alinhada e que as expectativas fossem cumpridas da melhor forma possível. Durante o processo, foi necessário exercitar habilidades de comunicação, liderança, negociação, resolução de conflitos e gestão de tempo para manter o projeto no ritmo ideal.
 
-## Contribuições Pessoais  
+## Hard Skills
+Python - Desenvolvimento do sistema completo (Faço com auxílio)
 
-Atuei nesse projeto como **Product Owner (P.O)**.  
+PySimpleGUI - Criação de interfaces (Faço com auxílio)
 
-Realizei, junto ao cliente, a definição dos requisitos funcionais e não funcionais dessa aplicação, garantindo o alinhamento das entregas em cada uma das 4 sprints. Além disso, contribuí diretamente com implementações junto à equipe e organizei o backlog para que os membros tivessem um guia claro de como estruturar as tarefas dentro de cada sprint.  
+Matplotlib - Dashboards e relatórios (Faço com autonomia)
 
-Também validei com o cliente cada um dos requisitos, garantindo que a equipe estivesse alinhada e que as expectativas fossem cumpridas da melhor forma possível. Durante o processo, foi necessário exercitar habilidades de **comunicação**, **liderança**, **negociação**, **resolução de conflitos** e **gestão de tempo** para manter o projeto no ritmo ideal.  
+Figma - Prototipagem (Faço com auxílio)
 
----
+Git - Controle de versão (Faço com autonomia)
 
-## Hard Skills  
+## Soft Skills
+Mediação de Conflitos Técnicos: Quando surgiu um impasse entre desenvolvedores sobre usar PySimpleGUI vs Tkinter, conduzi uma análise técnica comparando curva de aprendizado, documentação e requisitos do projeto, resultando na escolha consensual do PySimpleGUI.
 
+Liderança Adaptativa: Consegui manter a equipe concisa e unida devido u um conflito de ideias referente ao modelo adotado para o desenvolvimento do backend. foi sugerido pelo membro mais experiente em nossa equipe qua desde o inicio do nosso desenvolvimento, deveriamos adotar o paradigma de programação orientada a objetos.argumentei que devido a inexperiencia da equipe em geral no desenvolvimento, seria mais desafiador partir para essa decisão. conclui que como o dessafio para ele seria menor , o orientei a ser o nosso revisor de codigo, refatorando scripts e enviando sigestoes de melhoria em nossas tasks. essa decisão provou ser acertada ,pois a equipe passou a ter entregas mais confiaveis, e mantive a equipe engajada.
 
-### Figma (Design de Interfaces)
+## Em 2023-2 (Cliente Interno)
+### Empresa Parceira
+### Fatec (Professor [Emanuel Mineda Carneiro])
+### Projeto: Sistema TG Manager: Gestão Inteligente de Avaliações, Feedbacks e Relatórios para Trabalhos de Graduação
 
-Prototipagem de interfaces para sistemas de gerenciamento de bancos de dados
-Design de telas para visualização das etapas
-Design de dashboards para visualização de dados
+### Problema
+Dificuldade dos coordenadores em gerenciar e avaliar Trabalhos de Graduação de forma centralizada, com controle manual de entregas, notas e feedbacks, gerando retrabalho e falta de padronização.
 
-Benefícios para o aprendizado:
-
-Visualização antecipada de como os dados serão apresentados aos usuários
-
-### Python (Linguagem de Programação)
-#### Aplicação para o projeto:
-Desenvolvimento de scripts para migração e transformação de dados
-
-#### Implementação Técnica:
-Desenvolver a arquitetura do sistema
-Implementar os módulos de autenticação e autorização
-Criar as interfaces para aluno e administrador
-Desenvolver a lógica de avaliação 360º
-Implementar os dashboards e relatórios
-Garantir a segurança dos dados (especialmente com avaliações confidenciais)
-
-#### Boas Práticas:
-Versionamento com Git
-Documentação do código
-
----
-
-## Soft Skills:
-
-### Comunicação  
-Foi essencial para garantir que os requisitos e as habilidades da equipe fossem bem distribuídos durante o desenvolvimento.  
-
- Durante reuniões semanais, foi preciso considerar a disponibilidade dos membros que não cursavam as mesmas disciplinas. Para isso, trabalhei na organização das agendas e conduzi as discussões de forma objetiva, garantindo que todos tivessem voz no processo.  
-
-### Liderança  
-Ser um Product Owner exigiu um papel de liderança para orientar a equipe na importância do **SCRUM** e na definição das entregas.  
-
- No início do projeto, alguns membros não compreendiam a necessidade de seguir o framework ágil. Foi necessário reforçar a importância da metodologia para a eficiência do desenvolvimento e incentivar a colaboração entre os envolvidos.  
-
-### Adaptabilidade  
-Com mudanças e imprevistos comuns em projetos de software, foi crucial ter flexibilidade para ajustar o planejamento.  
-
- Durante uma sprint, percebi que um requisito precisava de ajustes devido a limitações técnicas. Como PO, facilitei a comunicação entre cliente e equipe, garantindo que as alterações fossem feitas sem comprometer o prazo de entrega.  
-
-### Resolução de Conflitos  
-Em alguns momentos, houve divergências sobre abordagens técnicas e distribuição de tarefas. Como PO, minha função foi atuar como mediador para encontrar o melhor caminho.  
-
-Quando surgiu um impasse entre desenvolvedores sobre qual tecnologia utilizar, conduzi uma análise baseada em critérios técnicos e estratégicos para chegar a uma solução consensual e eficiente.  
-
-### Visão de Produto e Negócio  
-Além da parte técnica, trabalhei para que a equipe compreendesse o valor do produto e o impacto das entregas no cliente final.  
-
- Durante reuniões de validação com o cliente, conectei os requisitos técnicos às necessidades reais dos usuários, garantindo que cada membro da equipe entendesse a importância do seu trabalho.  
-
-### Gestão de Tempo e Priorização  
-A organização do backlog demandou habilidades de priorização para garantir que os itens mais críticos fossem entregues primeiro.  
-
-### Empatia e Trabalho em Equipe  
-Durante o desenvolvimento, percebi a necessidade de compreender as dificuldades de cada membro e atuar para fortalecer a colaboração.  
-
-
-## Em 2023-2
-
-## TG-MANAGER (Cliente Interno )
-Repositório dedicado ao versionamento do projeto de API do segundo semestre de Banco de Dados.
-
-
-[GIT](https://github.com/wizards-of-api/api-2BD)
-
-
-### Contexto do projeto
-
-Desenvolver uma aplicação que leia um arquivo ".csv" com respostas vindas de um formulário respondido pelos alunos a respeito do Trabalho de Graduação. O objetivo é desenvolver uma aplicação que facilite a visualização de dados auxilie na questão de aplicação de notas e feedbacks gerando relatórios que se encaixem ao cliente.
-
-### Objetivo da Solução
-
-Os objetivos da aplicação são: carregar o arquivo ".csv" para trazer uma maior facilidade na visualização dos dados e fornecer as possibilidades de anotações nas avaliações dos Trabalhos de Graduação, tais como feedback e nota do aluno em sua entrega. Também será possível agendar as entregas e definir as quantidades de entregas visto que a nota será baseado em uma média de notas que serão distribuidas nestas entregas. Por fim gerar relatórios com informações úteis ao usário, para que consiga gerenciar as turmas e facilitar a rotina e pendências das apresentações.
-
-### Funcionalidades
-
-- Carregar arquivo ".csv"
-- Verificar informaçõse do aluno
-- Controlar quantidade de entregas
-- Agendar data das entregas
-- Atribuir nota por entrega por aluno
-- Atribuir feedback por entrega por aluno
-- Gerar relatório de cada aluno
-- Gerar relatório de todos alunos
-- Gerar relatório que liste alunos aptos a defesa de sua TG com dados do orientador
+### Solução
+Sistema desktop em Java para gestão de TGs com importação de CSV, controle de entregas, atribuição de notas/feedbacks e geração de relatórios automatizados para acompanhamento dos trabalhos de graduação.
 
 [GIT](https://github.com/wiz-fatec/api-2BD)
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
+<div style="text-align: center;"> <b>Tecnologias Utilizadas no Projeto</b> <div> <img src="https://skillicons.dev/icons?i=figma,git,java,maven,postgresql,vscode,idea"/><br> </div> </div>
+Nome	Descrição
+FIGMA	Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web
+GIT	é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software
+JAVA	Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+MAVEN	O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.
+POSTGRESQL	PostgreSQL é uma solução de banco de dados crucial que ajuda os desenvolvedores a manter a integridade de seus dados, gerenciar com mais facilidade cargas de trabalho de todos os tamanhos e dimensionar conforme necessário.
+VSCODE	O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft
+INTELLIJ	IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.
 
-<div style="text-align: center;">
-    <b>Tecnologias Utilizadas no Projeto</b>
-    <div>
-        <img src="https://skillicons.dev/icons?i=figma,git,java,maven,postgresql,vscode,idea"/><br>
-    </div>
-</div>
-</div>
-
-Nome|Descrição|
- :--------: | :-------- |
-|[FIGMA](https://www.figma.com/pt-br/)|Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web|[FIGMA](https://www.figma.com/pt-br/)|
-|[GIT](https://git-scm.com/)|é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software|
-|[JAVA](https://docs.oracle.com/en/java/javase/17/)|Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.|
-|[MAVEN](https://maven.apache.org/)|O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.|
-|[POSTGRESQL](https://www.postgresql.org/docs/)|PostgreSQL é uma solução de banco de dados crucial que ajuda os desenvolvedores a manter a integridade de seus dados, gerenciar com mais facilidade cargas de trabalho de todos os tamanhos e dimensionar conforme necessário.|
-|[VSCODE](https://code.visualstudio.com/)|O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft|
-|[INTELLIJ](https://www.jetbrains.com/pt-br/idea/)|IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.|
-
-<br>
-
-
-
-## Contribuições Pessoais
-
-Contribui na implementação de  uma classe para gerenciar a conexão com o banco de dados, garantindo que só uma instância seja criada. Usei um sistema de pool para ajudar no desempenho quando várias conexões são necessárias. Tratei erros de conexão de forma personalizada.
+### Contribuições Pessoais
+Contribui na implementação de uma classe para gerenciar a conexão com o banco de dados, garantindo que só uma instância seja criada. Usei um sistema de pool para ajudar no desempenho quando várias conexões são necessárias. Tratei erros de conexão de forma personalizada.
 
 Para facilitar o uso do banco com código Java, utilizei o JPA/Hibernate para transformar registros em objetos. Defini como as tabelas se relacionam usando anotações (@OneToMany, @ManyToOne) e adicionei algumas validações simples, como obrigatoriedade de campos.
 
-Também contribui na criação de  um Enum para padronizar tipos e um método que transforma textos em valores desse Enum, o que ajuda na hora de trabalhar com formulários.
+Também contribui na criação de um Enum para padronizar tipos e um método que transforma textos em valores desse Enum, o que ajuda na hora de trabalhar com formulários.
 
+### Hard Skills
+ Java - Backend do sistema (Faço com autonomia)
 
+ JPA/Hibernate - Mapeamento ORM (Faço com auxílio)
 
-## Hard Skills
+PostgreSQL - Banco de dados (Faço com autonomia)
 
-### Figma (Design de Interfaces)
-Aplicação no Projeto:
-Prototipagem de interfaces para sistemas de gerenciamento de bancos de dados, garantindo uma experiência intuitiva para o usuário.
-Design de telas que representam as etapas do fluxo de avaliação 360º, facilitando a navegação e interação.
-Criação de dashboards para visualização de dados, permitindo uma análise clara e eficiente das avaliações.
+ JavaFX - Interface desktop (Faço com auxílio)
 
-Benefícios para o Aprendizado:
-Permite a visualização antecipada de como os dados serão apresentados, melhorando a usabilidade.
-Facilita a validação de ideias antes da implementação técnica, reduzindo retrabalho.
-Documentação do código para facilitar futuras manutenções e entendimento do sistema.
+Maven - Gerenciamento de dependências (Faço com autonomia)
 
-### Java 
+### Soft Skills
+Mentoria Técnica: Auxiliei um colega com dificuldades em JPA criando sessões de pair programming onde expliquei anotações @OneToMany e @ManyToOne, resultando na entrega bem-sucedida do módulo de relacionamentos.
 
-Aplicação no Projeto:
-Desenvolvimento do backend do sistema, garantindo alta performance e confiabilidade.
-Integração com banco de dados para armazenamento e recuperação das avaliações.
-Implementação Técnica:
-Implementação de serviços de negócio para processamento das avaliações.
+Gestão de Dependências: Identifiquei que a falta de comunicação entre frontend e backend estava causando retrabalho. Implementei reuniões de alinhamento técnico que reduziram em 40% os retrabalhos por incompatibilidade de interfaces.
 
-### JavaFX
-Aplicação no Projeto:
-Desenvolvimento de interfaces desktop para uma experiência mais robusta em sistemas offline.
-Visualização de dashboards em aplicações standalone.
-Uso de FXML para separação entre lógica e interface.
-Integração com CSS 3 para estilização avançada.
+## Em 2024-1 (Cliente Externo)
+### Empresa Parceira
+[Dom Rock](https://www.domrock.net/)
+#### Projeto: Dom Rock pipeline configurator
 
-### CSS 3
-Aplicação no Projeto:
-Estilização de interfaces no JavaFX e em possíveis versões web.
-Benefícios para o Aprendizado:
-Melhora a experiência do usuário com designs mais atraentes e funcionais.
-Permite a customização avançada de componentes visuais.
+### Problema
+Dificuldade de colaboradores não técnicos em entender e configurar pipelines de dados complexas, causando dependência excessiva da equipe de TI e erros frequentes de configuração.
 
----
-	
-## Soft Skills
+### Solução
+Plataforma web intuitiva para configuração visual de pipelines de dados, permitindo que usuários não técnicos configurem fluxos de dados através de interface arrasta e solta com validação em tempo real.
 
-### Trabalho em equipe: 
-Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
-linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
+[GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
 
-### Versionamento:
-Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
+## Tecnologias Utilizadas
+<div style="text-align: center;"> <b>Tecnologias Utilizadas no Projeto</b> <div> <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,mysql,vscode,idea"/><br> </div> </div>
+Nome	Descrição
+FIGMA	Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
+HTML	HTML (HyperText Markup Language) é a linguagem de marcação de hipertexto que é a base da web. É utilizada para criar a estrutura e o conteúdo de páginas web, definindo como o navegador deve interpretar e exibir informações como texto, imagens, links e outros elementos.
+CSS	CSS (Cascading Style Sheets) é a linguagem usada para estilizar elementos HTML e controlar como eles são exibidos no navegador. Ele permite definir cores, fontes, espaçamentos, layouts e outros aspectos da apresentação visual de uma página web. Em resumo, o CSS é responsável por tornar a página web visualmente atraente e organizada.
+VUE	Vue.js é um framework JavaScript de código aberto e progressivo usado para construir interfaces de usuário e aplicações web. Ele é conhecido por ser fácil de aprender e integrar em projetos existentes.
+TYPESCRIPT	TypeScript é uma linguagem de programação de código aberto, que é um superconjunto sintático do JavaScript, desenvolvido pela Microsoft. Ele adiciona recursos de tipagem estática ao JavaScript, facilitando a identificação de erros e tornando o desenvolvimento de aplicações mais seguras e complexas.
+GIT	é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software
+SPRING-BOOT	Spring Boot é um framework Java de código aberto que visa facilitar o desenvolvimento de aplicações Spring. Simplifica a configuração e a execução de aplicações, tornando o processo mais rápido e fácil. É utilizado para criar aplicações web, microsserviços, APIs REST e outros tipos de aplicações.
+JAVA	Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+MAVEN	O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.
+MySQL	MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto, ou seja, um software que permite armazenar e organizar dados em tabelas, com relacionamentos entre elas. Ele é amplamente utilizado em aplicações web e em diversos outros contextos, como em sites de comércio eletrônico, redes sociais e aplicativos.
+VSCODE	O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft
+INTELLIJ	IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.
+Contribuições Pessoais
+Atuei no projeto como desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
 
-### Gestão de Tempo:
-oncluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
+### Hard Skills
+Spring Boot - APIs RESTful (Faço com autonomia)
 
-### Comunicação Assertiva:	
-Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
-realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
+Vue.js - Frontend com TypeScript (Faço com auxílio)
 
+TypeScript - Tipagem estática (Faço com auxílio)
 
-## Em 2024-1 (Cliente Externo )
+MySQL - Banco de dados (Faço com autonomia)
 
----
+Docker - Containerização (Faço com auxílio)
 
-<h2 style="text-align: center;">Projeto: Dom Rock pipeline configurator</h2>
+### Soft Skills
+Tradução de Requisitos Técnicos: Atuei como ponte entre o cliente (Dom Rock) e a equipe, traduzindo necessidades de negócio em requisitos técnicos. Especificamente, transformei a demanda por "configuração visual intuitiva" em componentes Vue.js arrasta-e-solta com validação em tempo real.
 
-<h3>Objetivo da aplicação</h3>
-O Dom Rock Configurator tem como objetivo facilitar a configuração de uma pipeline, deixando mais
-versátil e criando a possibilidade de colaboradores não técnicos, das empresas atendidas pelo
-nosso cliente, entenderem e auxiliarem na etapa de configuração do fluxo de dados dos arquivos
-em que irão efetuar a atualização.
-
-Link da aplicação:<a href="https://github.com/wiz-fatec/dom-rock-pipeline-configurator">Dom Rock pipeline</a>
-
-<div style="text-align: center;">
-    <b>Tecnologias Utilizadas no Projeto</b>
-    <div>
-        <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,mysql,vscode,idea"/><br>
-    </div>
-</div>
-
-Nome|Descrição|
- :--------: | :-------- |
-|[FIGMA](https://www.figma.com/pt-br/)|Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
-|[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)|HTML (HyperText Markup Language) é a linguagem de marcação de hipertexto que é a base da web. É utilizada para criar a estrutura e o conteúdo de páginas web, definindo como o navegador deve interpretar e exibir informações como texto, imagens, links e outros elementos.
-|[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)|CSS (Cascading Style Sheets) é a linguagem usada para estilizar elementos HTML e controlar como eles são exibidos no navegador. Ele permite definir cores, fontes, espaçamentos, layouts e outros aspectos da apresentação visual de uma página web. Em resumo, o CSS é responsável por tornar a página web visualmente atraente e organizada.
-[VUE](https://vuejs.org/)|Vue.js é um framework JavaScript de código aberto e progressivo usado para construir interfaces de usuário e aplicações web. Ele é conhecido por ser fácil de aprender e integrar em projetos existentes.
-[TYPESCRIPT](https://www.typescriptlang.org/docs/handbook/2/objects.html)|TypeScript é uma linguagem de programação de código aberto, que é um superconjunto sintático do JavaScript, desenvolvido pela Microsoft. Ele adiciona recursos de tipagem estática ao JavaScript, facilitando a identificação de erros e tornando o desenvolvimento de aplicações mais seguras e complexas.
-|[GIT](https://git-scm.com/)|é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software|
-|[SPRING-BOOT](https://spring.io/projects/spring-boot)|Spring Boot é um framework Java de código aberto que visa facilitar o desenvolvimento de aplicações Spring. Simplifica a configuração e a execução de aplicações, tornando o processo mais rápido e fácil. É utilizado para criar aplicações web, microsserviços, APIs REST e outros tipos de aplicações.
-|[JAVA](https://docs.oracle.com/en/java/javase/17/)|Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.|
-|[MAVEN](https://maven.apache.org/)|O Maven é uma ferramenta de gerenciamento, construção e implantação de projetos, amplamente utilizada em projetos Java, mas também compatível com outras linguagens. Ele facilita o processo de desenvolvimento ao automatizar a gestão de dependências, a construção do projeto, a geração de relatórios e a documentação.|
-|[MySQL](https://www.mysql.com/)|MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto, ou seja, um software que permite armazenar e organizar dados em tabelas, com relacionamentos entre elas. Ele é amplamente utilizado em aplicações web e em diversos outros contextos, como em sites de comércio eletrônico, redes sociais e aplicativos.
-|[VSCODE](https://code.visualstudio.com/)|O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft|
-|[INTELLIJ](https://www.jetbrains.com/pt-br/idea/)|IntelliJ IDEA é um ambiente de desenvolvimento integrado (IDE) escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.|
-
-<br>
-<h3>Contribuições Pessoais</h3>
-Atuei no projeto  como  desenvolvedor back-end, usando Spring. Também trabalhei no front-end, desenvolvendo com Vue.js e TypeScript (VueTs).
-
- 
-## Hard Skills
-
-### Figma (Design de Interfaces)
-Aplicação no Projeto:
-Prototipagem de interfaces para sistemas web e mobile, garantindo usabilidade e experiência intuitiva.
-Design de componentes reutilizáveis para manter consistência visual em todo o sistema.
-Criação de fluxos de navegação para mapear a jornada do usuário nas aplicações.
-
-### Java 
-Aplicação no Projeto:
-Desenvolvimento do backend com alta performance e segurança.
-Processamento de dados complexos e integração com bancos de dados relacionais.
-
-### Spring Boot
-Aplicação no Projeto:
-Criação de APIs RESTful para comunicação entre front-end e back-end.
-Injeção de dependências e gestão simplificada de componentes.
-Segurança com Spring Security para autenticação e autorização.
-Integração fácil com bancos de dados (JPA/Hibernate) e serviços externos.
-
-### Vue.js
-Aplicação no Projeto:
-Desenvolvimento de interfaces dinâmicas e reativas para dashboards administrativos.
-Componentização para reutilização de elementos UI.
-Implementação Técnica:
-Uso de Vue 3 Composition API para melhor organização do código.
-Integração com TypeScript para maior segurança de tipos.
-
-### TypeScript
-Aplicação no Projeto:
-Tipagem estática em componentes Vue.js para reduzir erros em runtime.
-Melhor autocompletar e documentação implícita no código.
-
-
-### HTML & CSS 3
-Aplicação no Projeto:
-Estruturação semântica de páginas com HTML5.
-Estilização responsiva com Flexbox/Grid e media queries.
-Animações e transições para melhor experiência do usuário.
-
-## Soft Skills
-
-### Trabalho em equipe:
-Durante o projeto, sempre procurei colaborar com os colegas. Ajudei o time em momentos em que surgiram dúvidas sobre a 
-linguagem de programação que estávamos usando, explicando trechos de código e sugerindo soluções para alguns problemas.
-
-### Versionamento: 
-Auxiliei n o apoio em relação ao uso do Git, ajudando no controle de versionamento do projeto, como na criação de branches, commits e resolução de conflitos.
-
-### Gestão de Tempo:
-Concluí todas as minhas tarefas dentro do prazo estimado, o que ajudou a manter o andamento do projeto em dia.
-
-### Comunicação Assertiva:	
-Procurei sempre manter uma comunicação clara com o time durante o desenvolvimento do projeto. Ao tomar decisões ou 
-realizar alguma ação importante, me preocupava em explicar bem o que estava fazendo e o motivo, para que todos estivessem alinhados.
-
+Resolução de Bloqueios: Quando um bug crítico no módulo de configuração ameaçou o prazo da sprint, organizei uma sessão de debugging em grupo que identificou e corrigiu o problema em 4 horas, evitando o atraso na entrega.
 
 ## Em 2024-2 (Cliente Externo)
+### Empresa Parceira
+[ITO 1](https://www.linkedin.com/company/ito1/about/)
 
+### Problema
+Dificuldade em processar e analisar grandes volumes de dados de geolocalização de dispositivos IoT em tempo real, com lentidão nas consultas e falta de insights estratégicos.
 
-## GEO-IOT
-Objetivo:
+### Solução
+Plataforma GEO-IOT para coleta, armazenamento e consulta de dados de geolocalização em tempo real com dashboards analíticos, segurança robusta e escalabilidade para grandes volumes de dados.
 
-O projeto tem como objetivo desenvolver uma solução robusta para o armazenamento e consulta de dados de geolocalização em tempo real,
-gerados por dispositivos IoT, como wearables, tags e smartphones. Utilizando um banco de dados SQL, ORACLE CLOUD, a solução será capaz de
-lidar com grandes volumes de dados, garantindo escalabilidade e alta disponibilidade. A arquitetura proposta envolve o uso de Spring Boot 
-para o backend, Vue.js para o frontend e comunicação eficiente via APIs RESTful. A segurança dos dados será garantida com criptografia 
-e controle de acesso.
+[GIT](https://github.com/manolito-fatec/geo-iot-2024-1)
 
-### Objetivo da aplicação
+Tecnologias Utilizadas
+<b>Tecnologias Utilizadas no Projeto</b>
 
-O GEO-IOT é uma solução tecnológica que coleta, armazena e consulta dados de geolocalização em tempo real, gerados por dispositivos IoT. Ele funciona como um sistema de aprendizagem digital, onde os dados são captados, organizados e analisados para oferecer insights valiosos. Utilizando um banco de dados SQL na ORACLE CLOUD, a plataforma garante escalabilidade e segurança, com criptografia e controle de acesso. A arquitetura é composta por um backend Spring Boot, frontend Vue.js e comunicação via APIs RESTful, permitindo consultas eficientes e confiáveis.
-Esse resumo atende ao que precisa? Posso refiná-lo se necessário!
-
-
-[GIT](https://https://github.com/manolito-fatec/geo-iot-2024-1)
-
-#### Tecnologias Utilizadas
-
-<b>Tecnologias Utilizadas no Projeto</b>Add commentMore actions
-    <div>
-        <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,docker,redis,vscode,idea"/><br>
-    </div>
-
-Nome|Descrição|
- :--------: | :-------- |
-|[FIGMA](https://www.figma.com/pt-br/)|Editor gráfico de vetor e prototipagem baseado em navegador para projetos de design|
-|[GIT](https://git-scm.com/)|Sistema de controle de versões distribuído para desenvolvimento de software|
-|[JAVA](https://docs.oracle.com/en/java/javase/17/)|Linguagem de programação multiplataforma orientada a objetos para aplicações web e empresariais|
-|[MAVEN](https://maven.apache.org/)|Ferramenta de gerenciamento e construção de projetos Java com gestão de dependências|
-|[POSTGRESQL](https://www.postgresql.org/docs/)|Sistema de banco de dados relacional open-source robusto e escalável|
-|[VSCODE](https://code.visualstudio.com/)|Editor de código-fonte leve e poderoso da Microsoft com extensões|
-|[INTELLIJ](https://www.jetbrains.com/pt-br/idea/)|IDE avançado para desenvolvimento em Java e outras linguagens JVM|
-|[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)|Linguagem de marcação padrão para criação de páginas web|
-|[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)|Linguagem de estilização para design e layout de páginas web|
-|[VUE.JS](https://vuejs.org/)|Framework JavaScript progressivo para construção de interfaces de usuário|
-|[TYPESCRIPT](https://www.typescriptlang.org/)|Superset tipado de JavaScript que compila para JS puro|
-|[SPRING](https://spring.io/)|Framework Java para construção de aplicações empresariais|
-|[DOCKER](https://www.docker.com/)|Plataforma para desenvolvimento, envio e execução de aplicações em containers|
-|[REDIS](https://redis.io/)|Banco de dados em memória usado como cache, broker de mensagens e armazenamento chave-valor|
-
-
-
-### Contribuições Pessoais
+<div> <img src="https://skillicons.dev/icons?i=figma,html,css,vuejs,typescript,git,spring,java,maven,docker,redis,vscode,idea"/><br> </div>
+Nome	Descrição
+FIGMA	Editor gráfico de vetor e prototipagem baseado em navegador para projetos de design
+GIT	Sistema de controle de versões distribuído para desenvolvimento de software
+JAVA	Linguagem de programação multiplataforma orientada a objetos para aplicações web e empresariais
+MAVEN	Ferramenta de gerenciamento e construção de projetos Java com gestão de dependências
+POSTGRESQL	Sistema de banco de dados relacional open-source robusto e escalável
+VSCODE	Editor de código-fonte leve e poderoso da Microsoft com extensões
+INTELLIJ	IDE avançado para desenvolvimento em Java e outras linguagens JVM
+HTML	Linguagem de marcação padrão para criação de páginas web
+CSS	Linguagem de estilização para design e layout de páginas web
+VUE.JS	Framework JavaScript progressivo para construção de interfaces de usuário
+TYPESCRIPT	Superset tipado de JavaScript que compila para JS puro
+SPRING	Framework Java para construção de aplicações empresariais
+DOCKER	Plataforma para desenvolvimento, envio e execução de aplicações em containers
+REDIS	Banco de dados em memória usado como cache, broker de mensagens e armazenamento chave-valor
+Contribuições Pessoais
 No projeto GEO-IOT, atuei como QA (Quality Assurance), garantindo a qualidade e confiabilidade da aplicação em todas as etapas do desenvolvimento. Minhas responsabilidades englobaram testes em backend e frontend, assegurando que a solução fosse robusta, escalável e segura.
+
 Atuação no Backend:
-- Definição e execução de testes unitarios  para APIs RESTful.
-- Validação da integração entre Spring Boot e o banco de dados MySQL na Oracle Cloud.
-- Testes de segurança, incluindo validação de Spring Security e JWT para autenticação segura.
-- Análise de desempenho e carga para garantir escalabilidade.
+
+Definição e execução de testes unitarios para APIs RESTful.
+
+Validação da integração entre Spring Boot e o banco de dados MySQL na Oracle Cloud.
+
+Testes de segurança, incluindo validação de Spring Security e JWT para autenticação segura.
+
+Análise de desempenho e carga para garantir escalabilidade.
+
 Atuação no Frontend:
-- Testes de usabilidade e acessibilidade na interface Vue.js.
-- Validação do consumo e apresentação de dados das APIs RESTful.
-- Garantia de responsividade e compatibilidade entre dispositivos.
-- Identificação e correção de bugs relacionados à experiência do usuário.
+
+Testes de usabilidade e acessibilidade na interface Vue.js.
+
+Validação do consumo e apresentação de dados das APIs RESTful.
+
+Garantia de responsividade e compatibilidade entre dispositivos.
+
+Identificação e correção de bugs relacionados à experiência do usuário.
+
 Essa atuação foi essencial para assegurar que o GEO-IOT entregasse um sistema confiável e eficiente, atendendo às exigências de alta disponibilidade, segurança e qualidade do software.
 
-## Hard Skills
+### Hard Skills
+Spring Boot - Backend e segurança (Faço com autonomia)
 
-### Frontend:
-#### Vue.js
+Vue.js - Frontend reativo (Faço com auxílio)
 
-Aplicação no Projeto:
-Desenvolvimento de interfaces reativas e dinâmicas utilizando Single File Components (SFC)
-Implementação de rotas com Vue Router para navegação entre páginas
-Gerenciamento de estado global com Pinia para compartilhamento eficiente de dados entre componentes
-Criação de componentes reutilizáveis seguindo princípios de design atômico
+JUnit - Testes unitários (Faço com autonomia)
 
-#### Vitest
-Aplicação no Projeto:
-Testes unitários para componentes Vue.js
-Testes de lógica de negócio isolada
-Testes de snapshots para prevenir regressões visuais
-Configuração de ambientes de teste específicos
-Mocking de dependências externas
-Cobertura de código com relatórios detalhados
+PostgreSQL - Dados geoespaciais (Faço com auxílio)
 
-#### HTML5
-Aplicação no Projeto:
-Estrutura semântica de páginas web
-Formulários avançados com validação nativa
-Elementos multimídia incorporados diretamente
-API de armazenamento local para dados temporários
+Docker - Orquestração (Faço com auxílio)
 
-#### CSS3
-Aplicação no Projeto:
-Layouts flexíveis com Flexbox e Grid
-Animações e transições para melhor UX
-Design responsivo com media queries
-Variáveis CSS para manutenção simplificada
+Redis - Cache (Faço com auxílio)
 
+### Soft Skills
+Visão Sistêmica em QA: Identifiquei que testes isolados não capturavam problemas de integração. Implementei uma estratégia de testes end-to-end que descobriu 12 bugs críticos de integração entre frontend e APIs antes da produção.
 
-#### JavaScript 
-Aplicação no Projeto:
-Manipulação do DOM eficiente
-Programação assíncrona com async/await
-Implementação de lógica complexa no front-end
-Consumo de APIs RESTful
-
-#### Axios
-
-Aplicação no Projeto:
-Requisições HTTP para APIs REST
-Interceptores para tratamento global de erros
-Cancelamento de requisições
-Transformação automática de dados JSON
-Configurações:
-Timeouts configuráveis
-Headers customizados
-Instâncias base para diferentes endpoints
-
-### Backend:
-
-#### Java 
-Aplicação no Projeto:
-Desenvolvimento de microsserviços
-Processamento de dados em backend
-Integração com bancos relacionais
-Features Modernas:
-Records para DTOs imutáveis
-Pattern Matching
-Text Blocks
-NullPointerException mais descritivas
-
-#### JUnit
-Aplicação no Projeto:
-Testes unitários de classes Java
-Testes parametrizados
-Assertions avançadas
-JUnit Jupiter (v5)
-Mockito para mocks
-
-## Soft Skills
-Em um ambiente de desenvolvimento, a atuação de Quality Assurance (QA) vai além dos testes técnicos e da validação do código. Para garantir um software de alta qualidade, algumas soft skills são essenciais. Elas ajudam a melhorar a comunicação, eficiência e colaboração entre equipes, tornando o fluxo de desenvolvimento mais produtivo e harmonioso.
-
-### Atenção aos detalhes: 
-Fundamental para o bom andamento das demandas, pois qualquer pequeno erro pode comprometer a funcionalidade do sistema. No ambiente de desenvolvimento, isso significa revisar requisitos cuidadosamente, analisar casos de teste com precisão e identificar falhas que possam passar despercebidas em testes automatizados. Um bug não identificado pode gerar retrabalho e até impactar a experiência do usuário final.
-
-### Pensamento Analítico: 
-Permite que se  vá além da identificação de erros, compreendendo o impacto que cada falha pode ter sobre o sistema e propondo soluções eficazes. Muitas vezes, os problemas não são óbvios, exigindo uma análise profunda das integrações entre componentes e o comportamento da aplicação sob diferentes condições.
-
- ### Comunicação: 
- Realizada de  forma  clara e assertiva é indispensável para o desenvolvimento. É comum que um desenvolvedor não compreenda imediatamente o problema encontrado em um teste, portanto, relatar falhas de maneira detalhada e objetiva facilita a correção. Além disso,  devemos  ser capazes de documentar claramente os testes realizados, garantindo que todos tenham acesso ao histórico e à metodologia aplicada.
-
-### Trabalho em equipe: 
-Parte essencial do desenvolvimento ágil.  precisamos interagir constantemente com desenvolvedores, para garantir que os objetivos do projeto sejam alcançados. Mais do que encontrar bugs, o QA auxilia na construção de um software mais eficiente, sugerindo melhorias e alinhando expectativas entre diferentes times.
-
-### Adaptabilidade:
-Juntamente com o  aprendizado contínuo são essenciais em um mercado de tecnologia que evolui rapidamente. Novas ferramentas de teste surgem constantemente, e precisamos  estar atualizados para garantir que estamos  utilizando as melhores abordagens. Além disso, metodologias ágeis exigem flexibilidade, pois mudanças de requisitos podem ocorrer a qualquer momento.
-
-### Resiliência e gestão de tempo: 
-Habilidades cruciais para lidar com prazos apertados sem comprometer a qualidade do produto. Frequentemente nos deparamos  com situações onde precisa testar funcionalidades em um período curto e ainda garantir que tudo esteja funcionando corretamente antes de um lançamento. Saber priorizar testes e gerenciar demandas é indispensável para evitar atrasos e entregas com falhas.
-
-
+Comunicação Técnica Assertiva: Documentei e comuniquei claramente 47 bugs encontrados, incluindo steps-to-reproduce, evidências e impacto, permitindo que desenvolvedores corrigissem 90% deles dentro de 24 horas.
 
 ## Em 2025-1
+### Empresa Parceira
+[Youtan](https://youtan.com.br/)
 
-Repositório: <a href="https://github.com/QuantumBitBR/API_5SEM">Clique aqui</a>
-
-### Empresa Parceira 🫱🏻‍🫲🏻
-Youtan — Empresa de desenvolvimento de software voltada à criação de soluções tecnológicas para aprimorar a gestão e produtividade de equipes.
-
-### Problema ‼️
-A Youtan enfrenta dificuldades para visualizar e acompanhar indicadores importantes dos projetos no Taiga. 
+Problema
+A Youtan enfrenta dificuldades para visualizar e acompanhar indicadores importantes dos projetos no Taiga.
 A falta de um painel centralizado e de controle de acesso por nível de usuário dificulta a gestão, a análise de desempenho e a tomada de decisões estratégicas.
 
-### Solução Entregue ✅
+Solução
 Desenvolvemos uma plataforma inteligente integrada ao Taiga, capaz de transformar dados brutos em insights visuais e estratégicos. Com dashboards interativos e acesso personalizado por nível de usuário, cada membro da equipe — do operador ao administrador — pode acompanhar o progresso dos projetos de forma simples, dinâmica e transparente, fortalecendo a tomada de decisões e a eficiência na gestão.
 
-#### Tecnologias Utilizadas
--<!-- Linha com todos os logos fora da tabela --> <div align="center"> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://www.oracle.com/java/"><img height="30" width="30" alt="Java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> <a href="https://spring.io/projects/spring-boot"><img height="30" width="30" alt="spring-boot-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></a> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://vuejs.org/"><img height="30" width="30" alt="vue-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://www.postman.com/"><img height="30" width="30" alt="postman-logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a> <a href="https://www.postgresql.org/"><img height="30" width="30" alt="postgresql-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a> <a href="https://www.atlassian.com/software/jira"><img height="30" width="30" alt="jira-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></a> <a href="https://discord.com/"><img height="30" width="30" alt="discord-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/></a> </div>
-<table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação de alto nível, simples e poderosa, amplamente usada em automação, ciência de dados, inteligência artificial, desenvolvimento web e análise de dados.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">Java</a></td> <td>Linguagem orientada a objetos e multiplataforma, muito usada em sistemas corporativos, aplicativos Android e soluções de grande escala devido à sua estabilidade e segurança.</td> </tr> <tr> <td><a href="https://spring.io/projects/spring-boot">Spring Boot</a></td> <td>Framework do ecossistema Java que facilita o desenvolvimento de APIs e aplicações web, eliminando configurações complexas e oferecendo recursos prontos como segurança, persistência e testes.</td> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Ferramenta online de design de interface e prototipagem, que permite colaboração em tempo real entre designers e desenvolvedores, facilitando a criação de interfaces modernas.</td> </tr> <tr> <td><a href="https://vuejs.org/">VueJS</a></td> <td>Framework JavaScript progressivo usado para construir interfaces web dinâmicas e reativas, com foco em simplicidade, desempenho e integração fácil com outros projetos.</td> </tr> <tr> <td><a href="https://github.com/">GitHub</a></td> <td>Plataforma baseada em Git que permite armazenar, versionar e colaborar em projetos de software, com controle de versões, issues, pull requests e documentação.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versão distribuído que permite rastrear mudanças no código, trabalhar em equipe e gerenciar diferentes versões de um projeto com segurança.</td> </tr> <tr> <td><a href="https://www.postman.com/">Postman</a></td> <td>Ferramenta usada para criar, testar e documentar APIs de forma simples, permitindo enviar requisições, analisar respostas e automatizar testes de integração.</td> </tr> <tr> <td><a href="https://www.postgresql.org/">PostgreSQL</a></td> <td>Banco de dados relacional open source conhecido por sua robustez, escalabilidade e suporte a recursos avançados como JSON, consultas complexas e transações seguras.</td> </tr> <tr> <td><a href="https://www.atlassian.com/software/jira">Jira</a></td> <td>Plataforma de gestão de projetos e tarefas, amplamente utilizada em equipes ágeis (Scrum e Kanban), para organizar sprints, acompanhar progresso e priorizar demandas.</td> </tr> <tr> <td><a href="https://discord.com/">Discord</a></td> <td>Aplicativo de comunicação por voz, vídeo e texto, muito usado por comunidades e equipes de desenvolvimento para reuniões, suporte e colaboração em tempo real.</td> </tr> </table>
+GIT
 
+Tecnologias Utilizadas
+<div align="center"> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://www.oracle.com/java/"><img height="30" width="30" alt="Java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> <a href="https://spring.io/projects/spring-boot"><img height="30" width="30" alt="spring-boot-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></a> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://vuejs.org/"><img height="30" width="30" alt="vue-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://www.postman.com/"><img height="30" width="30" alt="postman-logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a> <a href="https://www.postgresql.org/"><img height="30" width="30" alt="postgresql-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a> <a href="https://www.atlassian.com/software/jira"><img height="30" width="30" alt="jira-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></a> <a href="https://discord.com/"><img height="30" width="30" alt="discord-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/></a> </div><table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação de alto nível, simples e poderosa, amplamente usada em automação, ciência de dados, inteligência artificial, desenvolvimento web e análise de dados.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">Java</a></td> <td>Linguagem orientada a objetos e multiplataforma, muito usada em sistemas corporativos, aplicativos Android e soluções de grande escala devido à sua estabilidade e segurança.</td> </tr> <tr> <td><a href="https://spring.io/projects/spring-boot">Spring Boot</a></td> <td>Framework do ecossistema Java que facilita o desenvolvimento de APIs e aplicações web, eliminando configurações complexas e oferecendo recursos prontos como segurança, persistência e testes.</td> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Ferramenta online de design de interface e prototipagem, que permite colaboração em tempo real entre designers e desenvolvedores, facilitando a criação de interfaces modernas.</td> </tr> <tr> <td><a href="https://vuejs.org/">VueJS</a></td> <td>Framework JavaScript progressivo usado para construir interfaces web dinâmicas e reativas, com foco em simplicidade, desempenho e integração fácil com outros projetos.</td> </tr> <tr> <td><a href="https://github.com/">GitHub</a></td> <td>Plataforma baseada em Git que permite armazenar, versionar e colaborar em projetos de software, com controle de versões, issues, pull requests e documentação.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versão distribuído que permite rastrear mudanças no código, trabalhar em equipe e gerenciar diferentes versões de um projeto com segurança.</td> </tr> <tr> <td><a href="https://www.postman.com/">Postman</a></td> <td>Ferramenta usada para criar, testar e documentar APIs de forma simples, permitindo enviar requisições, analisar respostas e automatizar testes de integração.</td> </tr> <tr> <td><a href="https://www.postgresql.org/">PostgreSQL</a></td> <td>Banco de dados relacional open source conhecido por sua robustez, escalabilidade e suporte a recursos avançados como JSON, consultas complexas e transações seguras.</td> </tr> <tr> <td><a href="https://www.atlassian.com/software/jira">Jira</a></td> <td>Plataforma de gestão de projetos e tarefas, amplamente utilizada em equipes ágeis (Scrum e Kanban), para organizar sprints, acompanhar progresso e priorizar demandas.</td> </tr> <tr> <td><a href="https://discord.com/">Discord</a></td> <td>Aplicativo de comunicação por voz, vídeo e texto, muito usado por comunidades e equipes de desenvolvimento para reuniões, suporte e colaboração em tempo real.</td> </tr> </table>
 
-## Contribuições Pessoais:
+### Contribuições Pessoais
 Desenvolvimento de requisitos do produto:
-Contribui com a definição dos requisitos funcionais e não funcionais da plataforma, identificando algumas  métricas e indicadores necessários para a gestão de projetos no Taiga. Participei de  reuniões junto com  stakeholders e outros membros da equipe de desenvolvimento para compreendermos as dores operacionais e transformá-las em funcionalidades priorizadas.
- Priorização do Product Backlog  
-Contribui e participei do backlog do produto utilizando critérios de valor de negócio e impacto técnico. Ajudei para que  que as entregas de cada sprint estivessem alinhadas aos objetivos estratégicos da Youtan, especialmente no que diz respeito à criação de dashboards interativos e à diferenciação de acesso por perfis de usuário (Operador, Gestor e Admin).
+Contribui com a definição dos requisitos funcionais e não funcionais da plataforma, identificando algumas métricas e indicadores necessários para a gestão de projetos no Taiga. Participei de reuniões junto com stakeholders e outros membros da equipe de desenvolvimento para compreendermos as dores operacionais e transformá-las em funcionalidades priorizadas.
 
-### DevOps de Testes de Integração:  
-Fui responsável pelo desenvolvimento do processo de DevOps de testes de integração, com foco em desenvolver testes de integração que garantiram que os, modulos funcionem de maneira correta. para aplicações no backend, utilizei como base JUNit, Spring Boost Test, Testcontainers(PostgreSQL real), WebTestClient,AssertJ e Scripts SQL. no frontend, utilizamos Vitest com mocks para testar integraçãode serviços e chamadas de backend. toda essa estrutura gerou como benecifios uma boa detecção de erros, redução de falhas em produção, aumentando a confiança nas entregas.
-      
-### Prototipação das telas
-  Contribui os protótipos de interface para a tela de dashboards do sistema, atuando desde a concepção visual até a validação das propostas junto à equipe de desenvolvimento. Apliquei princípios de UX/UI Design, garantindo uma navegação intuitiva, hierarquia visual clara e consistência entre os elementos da interface. Também defini paletas de cores, tipografias e padrões de espaçamento, assegurando boa legibilidade e harmonia visual. Além disso, realizei ajustes com base em feedbacks de usuários e do time técnico, aprimorando a experiência e usabilidade do produto final.
- ### Desenvolvimento de Backend:
- Arquitetura MVC Implementada
-Contribui na  aplicação seguindo o padrão Model-View-Controller, garantindo separação de concerns e manutenibilidade do código
+Priorização do Product Backlog
+Contribui e participei do backlog do produto utilizando critérios de valor de negócio e impacto técnico. Ajudei para que as entregas de cada sprint estivessem alinhadas aos objetivos estratégicos da Youtan, especialmente no que diz respeito à criação de dashboards interativos e à diferenciação de acesso por perfis de usuário (Operador, Gestor e Admin).
+
+DevOps de Testes de Integração:
+Fui responsável pelo desenvolvimento do processo de DevOps de testes de integração, com foco em desenvolver testes de integração que garantiram que os módulos funcionem de maneira correta. Para aplicações no backend, utilizei como base JUnit, Spring Boot Test, Testcontainers(PostgreSQL real), WebTestClient, AssertJ e Scripts SQL. No frontend, utilizamos Vitest com mocks para testar integração de serviços e chamadas de backend. Toda essa estrutura gerou como benefícios uma boa detecção de erros, redução de falhas em produção, aumentando a confiança nas entregas.
+
+Prototipação das telas
+Contribui os protótipos de interface para a tela de dashboards do sistema, atuando desde a concepção visual até a validação das propostas junto à equipe de desenvolvimento. Apliquei princípios de UX/UI Design, garantindo uma navegação intuitiva, hierarquia visual clara e consistência entre os elementos da interface. Também defini paletas de cores, tipografias e padrões de espaçamento, assegurando boa legibilidade e harmonia visual. Além disso, realizei ajustes com base em feedbacks de usuários e do time técnico, aprimorando a experiência e usabilidade do produto final.
+
+Desenvolvimento de Backend:
+Arquitetura MVC Implementada
+Contribui na aplicação seguindo o padrão Model-View-Controller, garantindo separação de concerns e manutenibilidade do código
 Desenvolvi entidades JPA representando o domínio do negócio com relacionamentos adequados
 Implementei controllers RESTful com endpoints padronizados para operações CRUD
 Contribui na Implementação de endpoints para operações de criação, leitura, atualização e exclusão (CRUD)
-Desenvolvi junto com a equipe  endpoints específicos para funcionalidades de negócio e relatórios
-Desenvolvi  junto a equipe serviços especializados para diferentes domínios (gestão, configurações, feedbacks)
-Contribui na estruturação de  validações de regras de negócio e tratamentos de exceções
+Desenvolvi junto com a equipe endpoints específicos para funcionalidades de negócio e relatórios
+Desenvolvi junto a equipe serviços especializados para diferentes domínios (gestão, configurações, feedbacks)
+Contribui na estruturação de validações de regras de negócio e tratamentos de exceções
 Configurei a persistência de dados com Spring Data JPA e PostgreSQL
 Estas contribuições resultaram em uma base backend robusta, escalável e bem estruturada.
 
-## Hard Skills
-### Java 
-Aplicação no Projeto:
-Desenvolvimento do backend com alta performance e segurança.
-Processamento de dados complexos e integração com bancos de dados relacionais.
+Hard Skills
+Spring Boot - APIs e segurança (Faço com autonomia)
 
-### Spring Boot
-Criação de APIs RESTful para comunicação entre front-end e back-end.
-Injeção de dependências e gestão simplificada de componentes.
-Segurança com Spring Security para autenticação e autorização.
-Integração fácil com bancos de dados (JPA/Hibernate) e serviços externos.
+JUnit/Testcontainers - Testes de integração (Faço com autonomia)
 
-### PostgreSQL:
-Utilizei e pesquisei  o banco de dados responsável por armazenar métricas e informações do Taiga. Utilizei e otimizei tabelas, views e consultas SQL para alimentar os dashboards com indicadores de desempenho e distribuição de tarefas.
+PostgreSQL - Métricas do Taiga (Faço com autonomia)
 
-### Github: 
-Utilizei o GitHub para versionamento do código e colaboração em equipe, organizando branches, pull requests e revisões de código. Também documentei o projeto e acompanhei o progresso das entregas pelo repositório.
+Vue.js - Dashboards (Faço com auxílio)
 
-### Git:
-Utilizei o Git para versionar o código do projeto, realizando commits, criação de branches e controle de alterações locais. Mantive um histórico organizado e sincronizado com o repositório remoto no GitHub, garantindo segurança e rastreabilidade no desenvolvimento.
+Git/GitHub - Versionamento (Faço com autonomia)
 
-### Jira: 
-Acompanhei o andamento das minhas tarefas e sprints através do Jira, definindo prioridades, prazos e histórias de usuário. Atuei na gestão do backlog e na comunicação entre equipe de devs para garantir o alinhamento do produto.
+Jira - Gestão ágil (Faço com autonomia)
 
+Soft Skills
+Pensamento Analítico Estratégico: Identifiquei que as métricas propostas inicialmente não refletiam a produtividade real. Sugeri e implementei indicadores baseados em lead time e throughput que forneceram insights 3x mais relevantes para a gestão.
 
-## Soft Skills
+Mediação entre Stakeholders: Quando surgiram conflitos entre requisitos de diferentes departamentos da Youtan, facilitei workshops de priorização que resultaram em um backlog consensual atendendo 80% das necessidades de cada área.
 
-### Comunicação:
-Mantive uma comunicação clara e constante com a equipe de desenvolvimento e o cliente, garantindo o alinhamento entre os objetivos do projeto e as funcionalidades da plataforma.
+## Em 2025-2
+### Empresa Parceira
+[PRO4TECH](https://pro4tech.com.br/)
 
-### Trabalho em equipe:
-Colaborei com os com a equipe de desenvolvedores ao qual faço parte na criação dos dashboards e definição dos indicadores, buscando sempre integrar design, usabilidade e funcionalidade.
+### Problema
+Atualmente, os usuários utilizam um sistema de chamados para solicitar suporte e acompanhar atendimentos. 
+Contudo, alguns pontos do processo ainda representam desafios. A consulta a chamados antigos nem sempre é prática, 
+dificultando o acesso rápido ao histórico. Também há limitações na geração de insights gerenciais e operacionais, 
+o que reduz a visibilidade sobre padrões e oportunidades de melhoria. Além disso, alguns fluxos poderiam ser mais eficientes, 
+otimizando o tempo das equipes. Por fim, certos aspectos do processo ainda necessitam adequação às diretrizes da LGPD, garantindo maior segurança e conformidade no tratamento dos dados.
 
-### Organização e gestão de prioridades: 
-Colaborei na estrutura e gerenciamento do backlog no Jira,  na priorização as entregas mais importantes para o negócio e acompanhamento do progresso das sprints.
+### Solução
+helpAi:
+A solução é uma plataforma inteligente de gestão de suporte, projetada para otimizar as operações de atendimento ao cliente. 
+Ela combina busca avançada de chamados, geração automática de insights estratégicos, análise de tendências impulsionada por IA e 
+forte anonimização de dados para garantir total conformidade com a LGPD. Ao gerar relatórios relevantes de forma automática, a plataforma 
+não apenas reduz o trabalho repetitivo, mas também capacita as organizações com dados acionáveis para orientar a tomada de decisões estratégicas. 
+Com o tempo, o histórico de atendimentos se transforma em uma fonte valiosa de inteligência corporativa, permitindo melhoria contínua, maior eficiência e resultados de negócio mais assertivos.
 
-#### Pensamento analítico:
-Contribui na analise de definição das métricas mais relevantes para a gestão dos projetos, transformando dados do Taiga em informações úteis para tomada de decisão.
-
-#### Responsabilidade e Compromentimento: 
-Cumpri prazos e mantive a qualidade das entregas, assumindo a responsabilidade de todas as tarefas aos quais me habilitei para desenvolver.
-
-## Em 2025-2 
+[GIT](https://github.com/QuantumBitBR/API_6SEM)
 
 
 
-## Problema:
-<p>Atualmente, os usuários dependem de um sistema de tickets para receber suporte e resolver problemas recorrentes. No entanto, esse modelo apresenta desafios importantes. Um número considerável de tickets é repetitivo, referindo-se a problemas que já foram identificados e solucionados, o que gera retrabalho desnecessário para a equipe de suporte. Consequentemente, os esforços da equipe são frequentemente consumidos por solicitações de baixa complexidade, reduzindo sua capacidade de focar em incidentes críticos e novas demandas. Além disso, as informações relacionadas a problemas recorrentes estão fragmentadas, limitando a geração de insights gerenciais e dificultando a análise de tendências, identificação de gargalos e exploração de oportunidades de melhoria. </p>
-## Solução:
-<p> A solução é uma plataforma inteligente de gestão de suporte projetada para otimizar as operações de atendimento ao cliente. Ela combina busca avançada de tickets, insights estratégicos automatizados, análise de tendências orientada por IA e anonimização robusta de dados para garantir conformidade total com a LGPD. Ao gerar relatórios insights automaticamente, a plataforma não apenas reduz o trabalho repetitivo, mas também capacita as organizações com dados acionáveis para orientar a tomada de decisão estratégica. Ao longo do tempo, o histórico de serviços é transformado em uma fonte valiosa de inteligência corporativa, permitindo melhoria contínua, maior eficiência e resultados empresariais mais inteligentes. </p>
+#### Tecnologias Utilizadas
 
-	## Used Technologies
+- <div align="center"> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://flask.palletsprojects.com/"><img height="30" width="30" alt="flask-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/></a> <a href="https://www.oracle.com/java/"><img height="30" width="30" alt="Java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> <a href="https://spring.io/projects/spring-boot"><img height="30" width="30" alt="spring-boot-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></a> <a href="https://www.postgresql.org/"><img height="30" width="30" alt="postgresql-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a> <a href="https://www.elastic.co/elasticsearch/"><img height="30" width="30" alt="elasticsearch-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/></a> <a href="https://facebook.github.io/prophet/"><img height="30" width="30" alt="prophet-logo" src="https://raw.githubusercontent.com/facebook/prophet/main/docs/static/logo.png"/></a> <a href="https://vuejs.org/"><img height="30" width="30" alt="vue-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://www.atlassian.com/software/jira"><img height="30" width="30" alt="jira-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://www.postman.com/"><img height="30" width="30" alt="postman-logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a> <a href="https://discord.com/"><img height="30" width="30" alt="discord-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/></a> </div><table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação de alto nível, simples e poderosa, amplamente usada em automação, ciência de dados, inteligência artificial, desenvolvimento web e análise de dados.</td> </tr> <tr> <td><a href="https://flask.palletsprojects.com/">Flask</a></td> <td>Microframework em Python usado para criar APIs e aplicações web de forma simples, leve e flexível, oferecendo apenas o essencial e permitindo adicionar recursos conforme necessário.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">Java</a></td> <td>Linguagem orientada a objetos e multiplataforma, muito usada em sistemas corporativos, aplicativos Android e soluções de grande escala devido à sua estabilidade e segurança.</td> </tr> <tr> <td><a href="https://spring.io/projects/spring-boot">Spring Boot</a></td> <td>Framework do ecossistema Java que facilita o desenvolvimento de APIs e aplicações web, eliminando configurações complexas e oferecendo recursos prontos como segurança, persistência e testes.</td> </tr> <tr> <td><a href="https://www.postgresql.org/">PostgreSQL</a></td> <td>Banco de dados relacional open source conhecido por sua robustez, escalabilidade e suporte a recursos avançados como JSON, consultas complexas e transações seguras.</td> </tr> <tr> <td><a href="https://www.elastic.co/elasticsearch/">Elastic Search</a></td> <td>Mecanismo de busca e análise distribuído, projetado para alta velocidade na indexação e consulta de grandes volumes de dados, utilizado para pesquisas textuais e análise em tempo real.</td> </tr> <tr> <td><a href="https://facebook.github.io/prophet/">Prophet</a></td> <td>Biblioteca de previsão de séries temporais desenvolvida pelo Facebook, criada para gerar previsões precisas de forma simples, lidando bem com sazonalidade, tendências e feriados.</td> </tr> <tr> <td><a href="https://vuejs.org/">VueJS</a></td> <td>Framework JavaScript progressivo usado para construir interfaces web dinâmicas e reativas, com foco em simplicidade, desempenho e integração fácil com outros projetos.</td> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Ferramenta online de design de interface e prototipagem, que permite colaboração em tempo real entre designers e desenvolvedores, facilitando a criação de interfaces modernas.</td> </tr> <tr> <td><a href="https://www.atlassian.com/software/jira">Jira</a></td> <td>Plataforma de gestão de projetos e tarefas, amplamente utilizada em equipes ágeis (Scrum e Kanban), para organizar sprints, acompanhar progresso e priorizar demandas.</td> </tr> <tr> <td><a href="https://github.com/">GitHub</a></td> <td>Plataforma baseada em Git que permite armazenar, versionar e colaborar em projetos de software, com controle de versões, issues, pull requests e documentação.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versão distribuído que permite rastrear mudanças no código, trabalhar em equipe e gerenciar diferentes versões de um projeto com segurança.</td> </tr> <tr> <td><a href="https://www.postman.com/">Postman</a></td> <td>Ferramenta usada para criar, testar e documentar APIs de forma simples, permitindo enviar requisições, analisar respostas e automatizar testes de integração.</td> </tr> <tr> <td><a href="https://discord.com/">Discord</a></td> <td>Aplicativo de comunicação por voz, vídeo e texto, muito usado por comunidades e equipes de desenvolvimento para reuniões, suporte e colaboração em tempo real.</td> </tr> </table>
 
-![WhatsApp Image 2025-10-26 at 19 11 18](https://github.com/user-attachments/assets/3d327c62-65dc-4822-ad10-b8db9fe3a088)
+Contribuições Pessoais
+- Durante o projeto atuei como dev FullStack, contribuindo para o desenvolvimento das atividades dentro das 3 sprints da seguinte forma: Levantamento de requisitos funcionais e nao funcionais, buscando entender quais eram as necessidades do parceiro, e transforma-las em 3 partes (1 por Sprint), para que ao final da 3ª Sprint, pudessemos 
+    - Levantamento dos Requisitos e Backlog
+         
+              Como Product Owner, fui responsável por levantar os requisitos do sistema em parceria com o cliente, buscando compreender profundamente suas necessidades e transformar essas demandas em soluções viáveis para o time de desenvolvimento.
+         
+    - Desenvolvimento do DoR e DoD
+         
+              Minhas contribuições incluíram a definição clara dos critérios de DoR (Definition of Ready) e DoD (Definition of Done), garantindo que cada demanda fosse iniciada apenas quando totalmente preparada e concluída somente quando atendesse a todos os requisitos de qualidade. Isso trouxe mais organização, alinhamento entre o time e maior previsibilidade no processo de desenvolvimento.
+          
 
-Diretório de Documentação
-<a href="https://github.com/QuantumBitBR/API_6SEM"a>
+    - 
 
-
-
-
-
-
-
-
-
+#### Hard Skills
 
 
+#### Tecnologias e Competências Técnicas
 
+### ##Python/Flask
+**Onde foi aplicada:** Utilizado como base do backend e microframework Flask para construção das APIs do sistema. Implementação de rotas, regras de negócio e integrações para suportar as funcionalidades do projeto.
+**Nível de proficiência:** Faço com autonomia
+
+
+### Elasticsearch
+**Onde foi aplicada:** Customização do ambiente e utilização de plugins no desenvolvimento do projeto. Configuração de índices e implementação de mecanismos de busca avançada.
+**Nível de proficiência:** Faço com auxilio
+
+### PostgreSQL
+**Onde foi aplicada:** Armazenamento estruturado dos dados, organização de tabelas, relacionamentos e garantia de consistência das informações utilizadas pelo backend.
+**Nível de proficiência:** Faço com autonomia
+
+### Vue.js
+**Onde foi aplicada:** Desenvolvimento de telas e componentes no front-end, incluindo interface do chatbot e outras áreas do sistema. Trabalho com comunicação via API, estados reativos e usabilidade.
+**Nível de proficiência:** Faço com autonomia
+
+### Git/GitHub
+**Onde foi aplicada:** Versionamento e gerenciamento do repositório do projeto, realizando commits, branches, pull requests e colaboração com o time durante o desenvolvimento.
+**Nível de proficiência:** Faço com autonomia
+
+### Figma
+**Onde foi aplicada:** Construção e validação das telas, garantindo que o design refletisse a experiência desejada e servisse como base visual para o desenvolvimento.
+**Nível de proficiência:** Faço com autonomia
+
+### Jira
+**Onde foi aplicada:** Organização de tarefas, registro de histórias, acompanhamento de entregas e manutenção do fluxo de trabalho alinhado ao Scrum utilizado pela equipe.
+**Nível de proficiência:** Faço com autonomia
+
+### Discord
+**Onde foi aplicada:** Comunicação com a equipe e realização de reuniões online para alinhamento e colaboração durante o desenvolvimento.
+**Nível de proficiência:** Faço com autonomia
+
+#### Soft Skills
+- Comunicação – Mantive alinhamento constante com o time e com o cliente, garantindo entendimento claro dos requisitos, priorizações e expectativas em cada etapa do desenvolvimento e também nas cerimônias do Scrum, como: Daily, Review, Retrospectiva e Planning.
+- Trabalho em equipe – Atuei de forma colaborativa com os desenvolvedores e cliente, integrando entregas entre front-end, back-end e produto para manter o fluxo de desenvolvimento eficiente.
+- Pensamento Analítico – Analisei dados, requisitos e comportamentos do sistema para tomar decisões técnicas mais assertivas, especialmente em tarefas envolvendo IA, buscas avançadas e estruturação do backend.
+- Adaptabilidade - Me ajustei rapidamente às mudanças de escopo, novas demandas e diferentes tecnologias utilizadas no projeto, mantendo produtividade e qualidade nas entregas.
 
 
 
