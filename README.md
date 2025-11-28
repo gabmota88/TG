@@ -15,8 +15,8 @@ Implementação de melhorias e otimizações em sistemas existentes, sempre visa
 Foi nesta vivência prática que percebi o poder dos dados para a tomada de decisão. A necessidade de diagnosticar falhas complexas, analisar tendências de quebra e planejar intervenções me mostrou a importância de ter informações precisas e acionáveis. Foi essa percepção que despertou meu desejo de me desafiar intelectualmente e migrar para uma carreira onde pudesse não apenas operar máquinas, mas, principalmente, extrair inteligência delas.
 Para embasar essa transição de forma sólida, ingressei em 2023 em um curso superior de Tecnologia na FATEC, direcionando meus estudos especificamente para Análise e Ciência de Dados. Estou adquirindo conhecimentos robustos em:
 
-Linguagens de Programação: Python, R e SQL.
-Visualização de Dados: Power BI e Tableau.
+Linguagens de Programação: Python e SQL.
+Visualização de Dados: Power BI .
 Estatística e Modelagem Preditiva.
 Banco de Dados e ETL (Extract, Transform, Load).
 Minha Visão e Objetivo de Carreira:
