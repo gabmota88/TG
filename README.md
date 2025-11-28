@@ -49,7 +49,7 @@ Estou entusiasmado para aplicar minha experiência prática anterior, combinada 
 
 # Meus Projetos
 ## Em 2023-1 (Cliente Interno)
-## Empresa Parceira
+## Empresa Parceira   Projeto: Sistema de Avaliação 360°
 ### Fatec (Lucas Gonçalves Nadalete)
 
 #### Problema
@@ -101,7 +101,7 @@ Mediação de Conflitos Técnicos: Quando surgiu um impasse entre desenvolvedore
 Liderança Adaptativa: Consegui manter a equipe concisa e unida devido u um conflito de ideias referente ao modelo adotado para o desenvolvimento do backend. foi sugerido pelo membro mais experiente em nossa equipe qua desde o inicio do nosso desenvolvimento, deveriamos adotar o paradigma de programação orientada a objetos.argumentei que devido a inexperiencia da equipe em geral no desenvolvimento, seria mais desafiador partir para essa decisão. conclui que como o dessafio para ele seria menor , o orientei a ser o nosso revisor de codigo, refatorando scripts e enviando sigestoes de melhoria em nossas tasks. essa decisão provou ser acertada ,pois a equipe passou a ter entregas mais confiaveis, e mantive a equipe engajada.
 
 ## Em 2023-2 (Cliente Interno)
-### Empresa Parceira
+### Empresa Parceira   Projeto TG Manager
 #### Fatec (Professor [Emanuel Mineda Carneiro])
 ##### Projeto: Sistema TG Manager: Gestão Inteligente de Avaliações, Feedbacks e Relatórios para Trabalhos de Graduação
 
@@ -181,15 +181,13 @@ TypeScript - Tipagem estática (Faço com auxílio)
 
 MySQL - Banco de dados (Faço com autonomia)
 
-Docker - Containerização (Faço com auxílio)
-
 ### Soft Skills
 Tradução de Requisitos Técnicos: Atuei como ponte entre o cliente (Dom Rock) e a equipe, traduzindo necessidades de negócio em requisitos técnicos. Especificamente, transformei a demanda por "configuração visual intuitiva" em componentes Vue.js arrasta-e-solta com validação em tempo real.
 
 Resolução de Bloqueios: Quando um bug crítico no módulo de configuração ameaçou o prazo da sprint, organizei uma sessão de debugging em grupo que identificou e corrigiu o problema em 4 horas, evitando o atraso na entrega.
 
 ## Em 2024-2 (Cliente Externo)
-### Empresa Parceira
+### Empresa Parceira   Projeto GEO-IOT
 [ITO 1](https://www.linkedin.com/company/ito1/about/)
 
 ### Problema
@@ -251,7 +249,7 @@ Visão Sistêmica em QA: Identifiquei que testes isolados não capturavam proble
 Comunicação Técnica Assertiva: Documentei e comuniquei claramente 47 bugs encontrados, incluindo steps-to-reproduce, evidências e impacto, permitindo que desenvolvedores corrigissem 90% deles dentro de 24 horas.
 
 ## Em 2025-1
-### Empresa Parceira
+### Empresa Parceira  Projeto Stratify
 [Youtan](https://youtan.com.br/)
 
 Problema
@@ -261,7 +259,7 @@ A falta de um painel centralizado e de controle de acesso por nível de usuário
 Solução
 Desenvolvemos uma plataforma inteligente integrada ao Taiga, capaz de transformar dados brutos em insights visuais e estratégicos. Com dashboards interativos e acesso personalizado por nível de usuário, cada membro da equipe — do operador ao administrador — pode acompanhar o progresso dos projetos de forma simples, dinâmica e transparente, fortalecendo a tomada de decisões e a eficiência na gestão.
 
-GIT
+[GIT](https://github.com/QuantumBitBR/API_5SEM)
 
 Tecnologias Utilizadas
 <div align="center"> <a href="https://www.python.org/downloads/"><img height="30" width="30" alt="Python-Logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> <a href="https://www.oracle.com/java/"><img height="30" width="30" alt="Java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a> <a href="https://spring.io/projects/spring-boot"><img height="30" width="30" alt="spring-boot-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></a> <a href="https://www.figma.com/"><img height="30" width="30" alt="figma-logo" src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma"/></a> <a href="https://vuejs.org/"><img height="30" width="30" alt="vue-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a> <a href="https://github.com/"><img height="30" width="30" alt="github-logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a> <a href="https://git-scm.com/"><img height="30" width="30" alt="git-logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a> <a href="https://www.postman.com/"><img height="30" width="30" alt="postman-logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a> <a href="https://www.postgresql.org/"><img height="30" width="30" alt="postgresql-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a> <a href="https://www.atlassian.com/software/jira"><img height="30" width="30" alt="jira-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></a> <a href="https://discord.com/"><img height="30" width="30" alt="discord-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/></a> </div><table> <tr> <th>Nome</th> <th>Descrição</th> </tr> <tr> <td><a href="https://www.python.org/downloads/">Python</a></td> <td>Linguagem de programação de alto nível, simples e poderosa, amplamente usada em automação, ciência de dados, inteligência artificial, desenvolvimento web e análise de dados.</td> </tr> <tr> <td><a href="https://www.oracle.com/java/">Java</a></td> <td>Linguagem orientada a objetos e multiplataforma, muito usada em sistemas corporativos, aplicativos Android e soluções de grande escala devido à sua estabilidade e segurança.</td> </tr> <tr> <td><a href="https://spring.io/projects/spring-boot">Spring Boot</a></td> <td>Framework do ecossistema Java que facilita o desenvolvimento de APIs e aplicações web, eliminando configurações complexas e oferecendo recursos prontos como segurança, persistência e testes.</td> </tr> <tr> <td><a href="https://www.figma.com/">Figma</a></td> <td>Ferramenta online de design de interface e prototipagem, que permite colaboração em tempo real entre designers e desenvolvedores, facilitando a criação de interfaces modernas.</td> </tr> <tr> <td><a href="https://vuejs.org/">VueJS</a></td> <td>Framework JavaScript progressivo usado para construir interfaces web dinâmicas e reativas, com foco em simplicidade, desempenho e integração fácil com outros projetos.</td> </tr> <tr> <td><a href="https://github.com/">GitHub</a></td> <td>Plataforma baseada em Git que permite armazenar, versionar e colaborar em projetos de software, com controle de versões, issues, pull requests e documentação.</td> </tr> <tr> <td><a href="https://git-scm.com/">Git</a></td> <td>Sistema de controle de versão distribuído que permite rastrear mudanças no código, trabalhar em equipe e gerenciar diferentes versões de um projeto com segurança.</td> </tr> <tr> <td><a href="https://www.postman.com/">Postman</a></td> <td>Ferramenta usada para criar, testar e documentar APIs de forma simples, permitindo enviar requisições, analisar respostas e automatizar testes de integração.</td> </tr> <tr> <td><a href="https://www.postgresql.org/">PostgreSQL</a></td> <td>Banco de dados relacional open source conhecido por sua robustez, escalabilidade e suporte a recursos avançados como JSON, consultas complexas e transações seguras.</td> </tr> <tr> <td><a href="https://www.atlassian.com/software/jira">Jira</a></td> <td>Plataforma de gestão de projetos e tarefas, amplamente utilizada em equipes ágeis (Scrum e Kanban), para organizar sprints, acompanhar progresso e priorizar demandas.</td> </tr> <tr> <td><a href="https://discord.com/">Discord</a></td> <td>Aplicativo de comunicação por voz, vídeo e texto, muito usado por comunidades e equipes de desenvolvimento para reuniões, suporte e colaboração em tempo real.</td> </tr> </table>
@@ -310,7 +308,7 @@ Pensamento Analítico Estratégico: Identifiquei que as métricas propostas inic
 Mediação entre Stakeholders: Quando surgiram conflitos entre requisitos de diferentes departamentos da Youtan, facilitei workshops de priorização que resultaram em um backlog consensual atendendo 80% das necessidades de cada área.
 
 ## Em 2025-2
-### Empresa Parceira
+### Empresa Parceira  Projeto HelpAI
 [PRO4TECH](https://pro4tech.com.br/)
 
 ### Problema
