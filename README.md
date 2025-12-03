@@ -47,10 +47,25 @@ Estou entusiasmado para aplicar minha experiência prática anterior, combinada 
 
  **Flask**           -APIs RESTful (Uso com autonomia)
 
-# Meus Projetos
+#  Link dos Repositorios dos Meus Projetos
+**1º Semestre** [GIT](https://github.com/wiz-fatec/avaliacao-360)
+
+**2º Semestre** [GIT](https://github.com/wiz-fatec/api-2BD)
+
+**3º Semestre** [GIT](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+
+**4º Semestre** [GIT](https://github.com/manolito-fatec/geo-iot-2024-1)
+
+**5º Semestre** [GIT](https://github.com/QuantumBitBR/API_5SEM)
+
+**6º Semestre** [GIT](https://github.com/QuantumBitBR/API_6SEM)
+
+
+
+
 ## Em 2023-1 (Cliente Interno)
 ## Empresa Parceira   Projeto: Sistema de Avaliação 360°
-### Fatec (Lucas Gonçalves Nadalete)
+### Fatec
 
 #### Problema
 Dificuldade na aplicação prática da metodologia de Avaliação 360º de forma manual, com controle ineficiente de turmas, grupos e análise de resultados, gerando retrabalho e impossibilitando uma visão consolidada do desempenho dos alunos.
@@ -102,7 +117,7 @@ Liderança Adaptativa: Consegui manter a equipe concisa e unida devido u um conf
 
 ## Em 2023-2 (Cliente Interno)
 ### Empresa Parceira   Projeto TG Manager
-#### Fatec (Professor [Emanuel Mineda Carneiro])
+#### Fatec 
 ##### Projeto: Sistema TG Manager: Gestão Inteligente de Avaliações, Feedbacks e Relatórios para Trabalhos de Graduação
 
 #### Problema
