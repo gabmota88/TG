@@ -380,8 +380,6 @@ Integração Frontend-Backend com TypeScript
 
 Desenvolvi serviços especializados em TypeScript para consumo de APIs
 
-Implementei tratamentos de erro e validações no lado do cliente
-
 Garanti a tipagem estática para maior confiabilidade nas comunicações com o backend
 
 Desenvolvimento de Componentes Vue.js
@@ -392,8 +390,6 @@ Implementei gestão de estado reactive para atualizações em tempo real
 
 Desenvolvi views principais para o dashboard com foco em usabilidade e performance
 
-Prototipagem e Design de Interface
-Contribuí na concepção e validação dos protótipos de interface, aplicando princípios de UX/UI Design para criar uma experiência intuitiva. Defini padrões visuais, incluindo hierarquia de informação e paleta de cores, garantindo consistência across todos os componentes desenvolvidos.
          
 #### Hard Skills
 
