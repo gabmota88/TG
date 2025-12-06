@@ -47,6 +47,8 @@ Estou entusiasmado para aplicar minha experiência prática anterior, combinada 
 
  **Flask**           -APIs RESTful (Uso com autonomia)
 
+ **GIT**         Controle de Versionamento de Projetos(Uso com autonomia)
+
 #  Link dos Repositorios dos Meus Projetos
 **1º Semestre** [GIT](https://github.com/wiz-fatec/avaliacao-360)
 
