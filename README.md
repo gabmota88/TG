@@ -65,8 +65,9 @@ Estou entusiasmado para aplicar minha experiência prática anterior, combinada 
 
 
 
-## Em 2023-1 (Cliente Interno)
-## Empresa Parceira   Projeto: Sistema de Avaliação 360°
+## Em 2023-1 
+### Empresa Parceira (Cliente Interno )
+### Projeto: Sistema de Avaliação 360°
 ### Fatec
 
 #### Problema
@@ -117,9 +118,10 @@ Mediação de Conflitos Técnicos: Quando surgiu um impasse entre desenvolvedore
 
 Liderança Adaptativa: Consegui manter a equipe concisa e unida devido u um conflito de ideias referente ao modelo adotado para o desenvolvimento do backend. foi sugerido pelo membro mais experiente em nossa equipe qua desde o inicio do nosso desenvolvimento, deveriamos adotar o paradigma de programação orientada a objetos.argumentei que devido a inexperiencia da equipe em geral no desenvolvimento, seria mais desafiador partir para essa decisão. conclui que como o dessafio para ele seria menor , o orientei a ser o nosso revisor de codigo, refatorando scripts e enviando sigestoes de melhoria em nossas tasks. essa decisão provou ser acertada ,pois a equipe passou a ter entregas mais confiaveis, e mantive a equipe engajada.
 
-## Em 2023-2 (Cliente Interno)
-### Empresa Parceira   Projeto TG Manager
-#### Fatec 
+## Em 2023-2 
+### Empresa Parceira (Cliente Interno )
+### Projeto TG Manager 
+### Fatec
 ##### Projeto: Sistema TG Manager: Gestão Inteligente de Avaliações, Feedbacks e Relatórios para Trabalhos de Graduação
 
 #### Problema
@@ -163,8 +165,7 @@ Mentoria Técnica: Auxiliei um colega com dificuldades em JPA criando sessões d
 Gestão de Dependências: Identifiquei que a falta de comunicação entre frontend e backend estava causando retrabalho. Implementei reuniões de alinhamento técnico que reduziram em 40% os retrabalhos por incompatibilidade de interfaces.
 
 ## Em 2024-1 (Cliente Externo)
-### Empresa Parceira
-[Dom Rock](https://www.domrock.net/)
+### Empresa Parceira  [Dom Rock](https://www.domrock.net/)
 #### Projeto: Dom Rock pipeline configurator
 
 ### Problema
@@ -204,8 +205,8 @@ Tradução de Requisitos Técnicos: Atuei como ponte entre o cliente (Dom Rock) 
 Resolução de Bloqueios: Quando um bug crítico no módulo de configuração ameaçou o prazo da sprint, organizei uma sessão de debugging em grupo que identificou e corrigiu o problema em 4 horas, evitando o atraso na entrega.
 
 ## Em 2024-2 (Cliente Externo)
-### Empresa Parceira   Projeto GEO-IOT
-[ITO 1](https://www.linkedin.com/company/ito1/about/)
+### Empresa Parceira   [ITO 1](https://www.linkedin.com/company/ito1/about/)
+###  Projeto GEO-IOT 
 
 ### Problema
 Dificuldade em processar e analisar grandes volumes de dados de geolocalização de dispositivos IoT em tempo real, com lentidão nas consultas e falta de insights estratégicos.
@@ -266,14 +267,15 @@ Visão Sistêmica em QA: Identifiquei que testes isolados não capturavam proble
 Comunicação Técnica Assertiva: Documentei e comuniquei claramente 47 bugs encontrados, incluindo steps-to-reproduce, evidências e impacto, permitindo que desenvolvedores corrigissem 90% deles dentro de 24 horas.
 
 ## Em 2025-1
-### Empresa Parceira  Projeto Stratify
-[Youtan](https://youtan.com.br/)
+### Empresa Parceira [Youtan](https://youtan.com.br/)
 
-Problema
+###  Projeto Stratify
+
+### Problema
 A Youtan enfrenta dificuldades para visualizar e acompanhar indicadores importantes dos projetos no Taiga.
 A falta de um painel centralizado e de controle de acesso por nível de usuário dificulta a gestão, a análise de desempenho e a tomada de decisões estratégicas.
 
-Solução
+### Solução
 Desenvolvemos uma plataforma inteligente integrada ao Taiga, capaz de transformar dados brutos em insights visuais e estratégicos. Com dashboards interativos e acesso personalizado por nível de usuário, cada membro da equipe — do operador ao administrador — pode acompanhar o progresso dos projetos de forma simples, dinâmica e transparente, fortalecendo a tomada de decisões e a eficiência na gestão.
 
 [GIT](https://github.com/QuantumBitBR/API_5SEM)
@@ -325,8 +327,9 @@ Pensamento Analítico Estratégico: Identifiquei que as métricas propostas inic
 Mediação entre Stakeholders: Quando surgiram conflitos entre requisitos de diferentes departamentos da Youtan, facilitei workshops de priorização que resultaram em um backlog consensual atendendo 80% das necessidades de cada área.
 
 ## Em 2025-2
-### Empresa Parceira  Projeto HelpAI
-[PRO4TECH](https://pro4tech.com.br/)
+### Empresa Parceira  [PRO4TECH](https://pro4tech.com.br/)
+### Projeto HelpAI
+
 
 ### Problema
 Atualmente, os usuários utilizam um sistema de chamados para solicitar suporte e acompanhar atendimentos. 
@@ -415,10 +418,6 @@ Contribuí na concepção e validação dos protótipos de interface, aplicando 
 
 #### Git/GitHub
 Versionamento e gerenciamento do repositório do projeto, realizando commits, branches, pull requests e colaboração com o time durante o desenvolvimento.
-**Nível de proficiência:** Faço com autonomia
-
-#### Figma
-Construção e validação das telas, garantindo que o design refletisse a experiência desejada e servisse como base visual para o desenvolvimento.
 **Nível de proficiência:** Faço com autonomia
 
 #### Jira
